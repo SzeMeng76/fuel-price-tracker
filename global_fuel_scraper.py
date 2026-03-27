@@ -268,6 +268,43 @@ def fetch_fuel_type(url: str, country_code: str, country_name: str, fuel_type: s
 def extract_price_from_page(soup: BeautifulSoup, country_code: str, country_name: str, url: str, fuel_type: str) -> dict[str, Any]:
     """从页面提取价格信息"""
     try:
+        # 提取实际价格日期
+        price_date = None
+
+        # 方法1: 从标题提取日期 (e.g., "Malaysia gasoline prices, 23-Mar-2026")
+        title_tag = soup.find('title')
+        if title_tag:
+            title_text = title_tag.text
+            date_match = re.search(r'(\d{1,2}-[A-Za-z]{3}-\d{4})', title_text)
+            if date_match:
+                price_date = date_match.group(1)
+
+        # 方法2: 从h1标签提取日期
+        if not price_date:
+            h1_tag = soup.find('h1')
+            if h1_tag:
+                h1_text = h1_tag.text
+                date_match = re.search(r'(\d{1,2}-[A-Za-z]{3}-\d{4})', h1_text)
+                if date_match:
+                    price_date = date_match.group(1)
+
+        # 方法3: 从"updated on"文本提取日期
+        if not price_date:
+            page_text = soup.get_text()
+            date_match = re.search(r'updated on (\d{1,2}-[A-Za-z]{3}-\d{4})', page_text, re.IGNORECASE)
+            if date_match:
+                price_date = date_match.group(1)
+
+        # 提取本地货币价格
+        # 格式: "The current gasoline price in Malaysia is MYR 3.27 per liter or USD 0.83 per liter"
+        local_price = None
+        local_currency = None
+        page_text = soup.get_text()
+        local_price_match = re.search(r'is\s+([A-Z]{3})\s+([\d,.]+)\s+per liter\s+or\s+USD', page_text)
+        if local_price_match:
+            local_currency = local_price_match.group(1)
+            local_price = parse_price(local_price_match.group(2))
+
         # 方法1: 查找所有表格，提取价格
         all_tables = soup.find_all('table')
         for table in all_tables:
@@ -300,7 +337,10 @@ def extract_price_from_page(soup: BeautifulSoup, country_code: str, country_name
                                 'currency': currency,
                                 'unit': 'per liter',
                                 'fuel_type': fuel_type,
-                                'update_date': time.strftime('%Y-%m-%d')
+                                'update_date': time.strftime('%Y-%m-%d'),
+                                'price_date': price_date,  # 实际价格日期
+                                'local_price': local_price,  # 本地货币价格
+                                'local_currency': local_currency  # 本地货币代码
                             }
 
         # 方法2: 从meta标签提取
@@ -314,7 +354,10 @@ def extract_price_from_page(soup: BeautifulSoup, country_code: str, country_name
                     'currency': price_match.group(2),
                     'unit': 'per liter',
                     'fuel_type': fuel_type,
-                    'update_date': time.strftime('%Y-%m-%d')
+                    'update_date': time.strftime('%Y-%m-%d'),
+                    'price_date': price_date,  # 实际价格日期
+                    'local_price': local_price,  # 本地货币价格
+                    'local_currency': local_currency  # 本地货币代码
                 }
 
         return None
