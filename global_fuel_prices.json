@@ -1,0 +1,74 @@
+{
+  "USA": {
+    "country": "United States",
+    "country_code": "USA",
+    "price": 1.13,
+    "currency": "USD",
+    "unit": "per liter",
+    "update_date": "2026-03-27",
+    "source_url": "https://www.globalpetrolprices.com/USA/gasoline_prices/"
+  },
+  "China": {
+    "country": "China",
+    "country_code": "China",
+    "price": 1.34,
+    "currency": "USD",
+    "unit": "per liter",
+    "update_date": "2026-03-27",
+    "source_url": "https://www.globalpetrolprices.com/China/gasoline_prices/"
+  },
+  "Japan": {
+    "country": "Japan",
+    "country_code": "Japan",
+    "price": 1.17,
+    "currency": "USD",
+    "unit": "per liter",
+    "update_date": "2026-03-27",
+    "source_url": "https://www.globalpetrolprices.com/Japan/gasoline_prices/"
+  },
+  "Germany": {
+    "country": "Germany",
+    "country_code": "Germany",
+    "price": 2.4,
+    "currency": "USD",
+    "unit": "per liter",
+    "update_date": "2026-03-27",
+    "source_url": "https://www.globalpetrolprices.com/Germany/gasoline_prices/"
+  },
+  "Saudi-Arabia": {
+    "country": "Saudi Arabia",
+    "country_code": "Saudi-Arabia",
+    "price": 0.62,
+    "currency": "USD",
+    "unit": "per liter",
+    "update_date": "2026-03-27",
+    "source_url": "https://www.globalpetrolprices.com/Saudi-Arabia/gasoline_prices/"
+  },
+  "Egypt": {
+    "country": "Egypt",
+    "country_code": "Egypt",
+    "price": 0.46,
+    "currency": "USD",
+    "unit": "per liter",
+    "update_date": "2026-03-27",
+    "source_url": "https://www.globalpetrolprices.com/Egypt/gasoline_prices/"
+  },
+  "Singapore": {
+    "country": "Singapore",
+    "country_code": "Singapore",
+    "price": 2.58,
+    "currency": "USD",
+    "unit": "per liter",
+    "update_date": "2026-03-27",
+    "source_url": "https://www.globalpetrolprices.com/Singapore/gasoline_prices/"
+  },
+  "Australia": {
+    "country": "Australia",
+    "country_code": "Australia",
+    "price": 1.56,
+    "currency": "USD",
+    "unit": "per liter",
+    "update_date": "2026-03-27",
+    "source_url": "https://www.globalpetrolprices.com/Australia/gasoline_prices/"
+  }
+}
