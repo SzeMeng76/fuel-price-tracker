@@ -209,8 +209,43 @@ GLOBAL_COUNTRIES = {
 
 
 def fetch_country_prices(country_code: str, country_name: str) -> dict[str, Any]:
-    """获取单个国家的油价（使用requests，更快）"""
-    url = f'https://www.globalpetrolprices.com/{country_code}/gasoline_prices/'
+    """获取单个国家的汽油和柴油价格"""
+    results = {}
+
+    # Fetch gasoline prices
+    gasoline_url = f'https://www.globalpetrolprices.com/{country_code}/gasoline_prices/'
+    gasoline_data = fetch_fuel_type(gasoline_url, country_code, country_name, 'gasoline')
+
+    # Fetch diesel prices
+    diesel_url = f'https://www.globalpetrolprices.com/{country_code}/diesel_prices/'
+    diesel_data = fetch_fuel_type(diesel_url, country_code, country_name, 'diesel')
+
+    # Combine results
+    if gasoline_data or diesel_data:
+        results = {
+            'country': country_name,
+            'country_code': country_code,
+            'gasoline': gasoline_data if gasoline_data else None,
+            'diesel': diesel_data if diesel_data else None,
+            'source_url_gasoline': gasoline_url,
+            'source_url_diesel': diesel_url
+        }
+
+        fuel_types = []
+        if gasoline_data:
+            fuel_types.append('gasoline')
+        if diesel_data:
+            fuel_types.append('diesel')
+
+        print(f"[{country_name}] 成功获取价格 ({', '.join(fuel_types)})")
+        return results
+    else:
+        print(f"[{country_name}] 未找到价格数据")
+        return None
+
+
+def fetch_fuel_type(url: str, country_code: str, country_name: str, fuel_type: str) -> dict[str, Any]:
+    """获取单个国家的特定燃油类型价格（使用requests）"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
     }
@@ -218,27 +253,19 @@ def fetch_country_prices(country_code: str, country_name: str) -> dict[str, Any]
     try:
         response = requests.get(url, headers=headers, timeout=15)
         if response.status_code != 200:
-            print(f"[{country_name}] HTTP {response.status_code}")
             return None
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
         # 提取价格信息
-        price_data = extract_price_from_page(soup, country_code, country_name, url)
-
-        if price_data:
-            print(f"[{country_name}] 成功获取价格")
-        else:
-            print(f"[{country_name}] 未找到价格数据")
-
+        price_data = extract_price_from_page(soup, country_code, country_name, url, fuel_type)
         return price_data
 
     except Exception as e:
-        print(f"[{country_name}] 获取失败: {e}")
         return None
 
 
-def extract_price_from_page(soup: BeautifulSoup, country_code: str, country_name: str, url: str) -> dict[str, Any]:
+def extract_price_from_page(soup: BeautifulSoup, country_code: str, country_name: str, url: str, fuel_type: str) -> dict[str, Any]:
     """从页面提取价格信息"""
     try:
         # 方法1: 查找所有表格，提取价格
@@ -251,8 +278,8 @@ def extract_price_from_page(soup: BeautifulSoup, country_code: str, country_name
                     first_col = cols[0].text.strip()
                     second_col = cols[1].text.strip()
 
-                    # 查找包含"Current price"或"Gasoline prices"的行
-                    if 'Current price' in first_col or 'Gasoline prices' in first_col:
+                    # 查找包含"Current price"的行
+                    if 'Current price' in first_col:
                         # 解析价格
                         price_match = re.search(r'([\d,.]+)', second_col)
                         if price_match:
@@ -269,36 +296,30 @@ def extract_price_from_page(soup: BeautifulSoup, country_code: str, country_name
                                     break
 
                             return {
-                                'country': country_name,
-                                'country_code': country_code,
                                 'price': price_value,
                                 'currency': currency,
                                 'unit': 'per liter',
-                                'update_date': time.strftime('%Y-%m-%d'),
-                                'source_url': url
+                                'fuel_type': fuel_type,
+                                'update_date': time.strftime('%Y-%m-%d')
                             }
 
         # 方法2: 从meta标签提取
         meta_desc = soup.find('meta', {'name': 'Description'})
         if meta_desc:
             desc_text = meta_desc.get('content', '')
-            # 例如: "The average gasoline price is CNY 7.53 per liter"
             price_match = re.search(r'([\d,.]+)\s*([A-Z]{3})\s*per liter', desc_text)
             if price_match:
                 return {
-                    'country': country_name,
-                    'country_code': country_code,
                     'price': parse_price(price_match.group(1)),
                     'currency': price_match.group(2),
                     'unit': 'per liter',
-                    'update_date': time.strftime('%Y-%m-%d'),
-                    'source_url': url
+                    'fuel_type': fuel_type,
+                    'update_date': time.strftime('%Y-%m-%d')
                 }
 
         return None
 
     except Exception as e:
-        print(f"解析 {country_name} 页面失败: {e}")
         return None
 
 

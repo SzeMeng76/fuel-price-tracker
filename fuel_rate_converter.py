@@ -82,18 +82,42 @@ def process_fuel_prices():
     processed_data = {}
     for country_code, data in fuel_data.items():
         try:
-            price = data.get('price', 0)
-            currency = data.get('currency', 'USD')
+            # 处理汽油价格
+            gasoline_data = data.get('gasoline')
+            diesel_data = data.get('diesel')
 
-            # 转换为CNY
-            price_cny = convert_to_cny(price, currency, rates)
-
-            # 添加CNY价格
-            processed_data[country_code] = {
-                **data,
-                'price_cny': price_cny,
-                'price_cny_formatted': f'{price_cny:.2f} CNY/L'
+            processed_country = {
+                'country': data.get('country'),
+                'country_code': data.get('country_code'),
+                'source_url_gasoline': data.get('source_url_gasoline'),
+                'source_url_diesel': data.get('source_url_diesel')
             }
+
+            # 转换汽油价格
+            if gasoline_data:
+                price = gasoline_data.get('price', 0)
+                currency = gasoline_data.get('currency', 'USD')
+                price_cny = convert_to_cny(price, currency, rates)
+
+                processed_country['gasoline'] = {
+                    **gasoline_data,
+                    'price_cny': price_cny,
+                    'price_cny_formatted': f'{price_cny:.2f} CNY/L'
+                }
+
+            # 转换柴油价格
+            if diesel_data:
+                price = diesel_data.get('price', 0)
+                currency = diesel_data.get('currency', 'USD')
+                price_cny = convert_to_cny(price, currency, rates)
+
+                processed_country['diesel'] = {
+                    **diesel_data,
+                    'price_cny': price_cny,
+                    'price_cny_formatted': f'{price_cny:.2f} CNY/L'
+                }
+
+            processed_data[country_code] = processed_country
 
         except Exception as e:
             print(f"处理 {country_code} 失败: {e}")
@@ -122,29 +146,54 @@ def process_fuel_prices():
 
 
 def generate_rankings(data: dict):
-    """生成价格排行榜"""
+    """生成价格排行榜（汽油和柴油）"""
     print("\n=== 全球燃油价格排行榜 (CNY/升) ===\n")
 
-    # 过滤有效数据并排序
-    valid_data = [(code, info) for code, info in data.items() if info.get('price_cny', 0) > 0]
+    # 汽油排行榜
+    gasoline_data = [(code, info) for code, info in data.items()
+                     if info.get('gasoline') and info['gasoline'].get('price_cny', 0) > 0]
 
-    # 最便宜的10个国家
-    cheapest = sorted(valid_data, key=lambda x: x[1]['price_cny'])[:10]
-    print("最便宜的10个国家:")
-    for i, (code, info) in enumerate(cheapest, 1):
-        print(f"{i:2d}. {info['country']:25s} {info['price_cny']:6.2f} CNY/L ({info['price']:.2f} {info['currency']}/L)")
+    if gasoline_data:
+        print("🚗 汽油价格排行榜:")
+        cheapest_gasoline = sorted(gasoline_data, key=lambda x: x[1]['gasoline']['price_cny'])[:10]
+        print("\n最便宜的10个国家:")
+        for i, (code, info) in enumerate(cheapest_gasoline, 1):
+            gasoline = info['gasoline']
+            print(f"{i:2d}. {info['country']:25s} {gasoline['price_cny']:6.2f} CNY/L ({gasoline['price']:.2f} {gasoline['currency']}/L)")
 
-    # 最贵的10个国家
-    most_expensive = sorted(valid_data, key=lambda x: x[1]['price_cny'], reverse=True)[:10]
-    print("\n最贵的10个国家:")
-    for i, (code, info) in enumerate(most_expensive, 1):
-        print(f"{i:2d}. {info['country']:25s} {info['price_cny']:6.2f} CNY/L ({info['price']:.2f} {info['currency']}/L)")
+        most_expensive_gasoline = sorted(gasoline_data, key=lambda x: x[1]['gasoline']['price_cny'], reverse=True)[:10]
+        print("\n最贵的10个国家:")
+        for i, (code, info) in enumerate(most_expensive_gasoline, 1):
+            gasoline = info['gasoline']
+            print(f"{i:2d}. {info['country']:25s} {gasoline['price_cny']:6.2f} CNY/L ({gasoline['price']:.2f} {gasoline['currency']}/L)")
 
-    # 统计信息
-    prices = [info['price_cny'] for _, info in valid_data]
-    avg_price = sum(prices) / len(prices)
-    print(f"\n全球平均价格: {avg_price:.2f} CNY/L")
-    print(f"价格范围: {min(prices):.2f} - {max(prices):.2f} CNY/L")
+        prices = [info['gasoline']['price_cny'] for _, info in gasoline_data]
+        avg_price = sum(prices) / len(prices)
+        print(f"\n全球汽油平均价格: {avg_price:.2f} CNY/L")
+        print(f"价格范围: {min(prices):.2f} - {max(prices):.2f} CNY/L")
+
+    # 柴油排行榜
+    diesel_data = [(code, info) for code, info in data.items()
+                   if info.get('diesel') and info['diesel'].get('price_cny', 0) > 0]
+
+    if diesel_data:
+        print("\n\n🚛 柴油价格排行榜:")
+        cheapest_diesel = sorted(diesel_data, key=lambda x: x[1]['diesel']['price_cny'])[:10]
+        print("\n最便宜的10个国家:")
+        for i, (code, info) in enumerate(cheapest_diesel, 1):
+            diesel = info['diesel']
+            print(f"{i:2d}. {info['country']:25s} {diesel['price_cny']:6.2f} CNY/L ({diesel['price']:.2f} {diesel['currency']}/L)")
+
+        most_expensive_diesel = sorted(diesel_data, key=lambda x: x[1]['diesel']['price_cny'], reverse=True)[:10]
+        print("\n最贵的10个国家:")
+        for i, (code, info) in enumerate(most_expensive_diesel, 1):
+            diesel = info['diesel']
+            print(f"{i:2d}. {info['country']:25s} {diesel['price_cny']:6.2f} CNY/L ({diesel['price']:.2f} {diesel['currency']}/L)")
+
+        prices = [info['diesel']['price_cny'] for _, info in diesel_data]
+        avg_price = sum(prices) / len(prices)
+        print(f"\n全球柴油平均价格: {avg_price:.2f} CNY/L")
+        print(f"价格范围: {min(prices):.2f} - {max(prices):.2f} CNY/L")
 
 
 if __name__ == '__main__':
