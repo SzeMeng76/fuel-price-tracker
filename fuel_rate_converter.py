@@ -5,7 +5,8 @@ import time
 from decimal import Decimal, ROUND_HALF_UP
 
 # OpenExchangeRates API配置
-API_KEY = os.getenv('API_KEY', 'daaf8da9e5fd46bd95bb8f20f4cf1309')  # 使用环境变量或默认key
+# 优先使用环境变量，然后使用默认key
+API_KEY = os.getenv('OPENEXCHANGERATES_API_KEY') or os.getenv('API_KEY') or 'daaf8da9e5fd46bd95bb8f20f4cf1309'
 API_URL = f"https://openexchangerates.org/api/latest.json?app_id={API_KEY}"
 
 INPUT_FILE = 'global_fuel_prices.json'
