@@ -2,9 +2,6 @@
   "USA": {
     "country": "United States",
     "country_code": "USA",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/USA/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/USA/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/USA/lpg_prices/",
     "gasoline": {
       "price": 1.14,
       "currency": "USD",
@@ -13,9 +10,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 7.84,
-      "price_cny_formatted": "7.84 CNY/L"
+      "local_currency": null
     },
     "diesel": {
       "price": 1.43,
@@ -25,9 +20,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 9.84,
-      "price_cny_formatted": "9.84 CNY/L"
+      "local_currency": null
     },
     "lpg": {
       "price": 0.0,
@@ -37,17 +30,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/USA/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/USA/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/USA/lpg_prices/"
   },
   "Canada": {
     "country": "Canada",
     "country_code": "Canada",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Canada/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Canada/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Canada/lpg_prices/",
     "gasoline": {
       "price": 1.42,
       "currency": "USD",
@@ -56,9 +47,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.97,
-      "local_currency": "CAD",
-      "price_cny": 9.77,
-      "price_cny_formatted": "9.77 CNY/L"
+      "local_currency": "CAD"
     },
     "diesel": {
       "price": 1.66,
@@ -68,9 +57,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.31,
-      "local_currency": "CAD",
-      "price_cny": 11.42,
-      "price_cny_formatted": "11.42 CNY/L"
+      "local_currency": "CAD"
     },
     "lpg": {
       "price": 0.91,
@@ -80,17 +67,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.26,
-      "local_currency": "CAD",
-      "price_cny": 6.26,
-      "price_cny_formatted": "6.26 CNY/L"
-    }
+      "local_currency": "CAD"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Canada/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Canada/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Canada/lpg_prices/"
   },
   "Mexico": {
     "country": "Mexico",
     "country_code": "Mexico",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Mexico/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Mexico/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Mexico/lpg_prices/",
     "gasoline": {
       "price": 1.55,
       "currency": "USD",
@@ -99,9 +84,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 27.79,
-      "local_currency": "MXN",
-      "price_cny": 10.66,
-      "price_cny_formatted": "10.66 CNY/L"
+      "local_currency": "MXN"
     },
     "diesel": {
       "price": 1.59,
@@ -111,9 +94,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 28.54,
-      "local_currency": "MXN",
-      "price_cny": 10.94,
-      "price_cny_formatted": "10.94 CNY/L"
+      "local_currency": "MXN"
     },
     "lpg": {
       "price": 0.0,
@@ -123,17 +104,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Mexico/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Mexico/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Mexico/lpg_prices/"
   },
   "Guatemala": {
     "country": "Guatemala",
     "country_code": "Guatemala",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Guatemala/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Guatemala/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Guatemala/lpg_prices/",
     "gasoline": {
       "price": 1.4,
       "currency": "USD",
@@ -142,9 +121,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 10.72,
-      "local_currency": "GTQ",
-      "price_cny": 9.63,
-      "price_cny_formatted": "9.63 CNY/L"
+      "local_currency": "GTQ"
     },
     "diesel": {
       "price": 1.5,
@@ -154,9 +131,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 11.49,
-      "local_currency": "GTQ",
-      "price_cny": 10.32,
-      "price_cny_formatted": "10.32 CNY/L"
+      "local_currency": "GTQ"
     },
     "lpg": {
       "price": 0.0,
@@ -166,17 +141,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Guatemala/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Guatemala/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Guatemala/lpg_prices/"
   },
   "Honduras": {
     "country": "Honduras",
     "country_code": "Honduras",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Honduras/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Honduras/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Honduras/lpg_prices/",
     "gasoline": {
       "price": 1.25,
       "currency": "USD",
@@ -185,9 +158,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 33.14,
-      "local_currency": "HNL",
-      "price_cny": 8.6,
-      "price_cny_formatted": "8.60 CNY/L"
+      "local_currency": "HNL"
     },
     "diesel": {
       "price": 1.16,
@@ -197,9 +168,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 30.72,
-      "local_currency": "HNL",
-      "price_cny": 7.98,
-      "price_cny_formatted": "7.98 CNY/L"
+      "local_currency": "HNL"
     },
     "lpg": {
       "price": 0.47,
@@ -209,17 +178,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 12.39,
-      "local_currency": "HNL",
-      "price_cny": 3.23,
-      "price_cny_formatted": "3.23 CNY/L"
-    }
+      "local_currency": "HNL"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Honduras/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Honduras/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Honduras/lpg_prices/"
   },
   "El-Salvador": {
     "country": "El Salvador",
     "country_code": "El-Salvador",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/El-Salvador/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/El-Salvador/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/El-Salvador/lpg_prices/",
     "gasoline": {
       "price": 1.14,
       "currency": "USD",
@@ -228,9 +195,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 7.84,
-      "price_cny_formatted": "7.84 CNY/L"
+      "local_currency": null
     },
     "diesel": {
       "price": 1.1,
@@ -240,9 +205,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 7.57,
-      "price_cny_formatted": "7.57 CNY/L"
+      "local_currency": null
     },
     "lpg": {
       "price": 0.0,
@@ -252,17 +215,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/El-Salvador/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/El-Salvador/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/El-Salvador/lpg_prices/"
   },
   "Nicaragua": {
     "country": "Nicaragua",
     "country_code": "Nicaragua",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Nicaragua/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Nicaragua/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Nicaragua/lpg_prices/",
     "gasoline": {
       "price": 1.33,
       "currency": "USD",
@@ -271,9 +232,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 49.0,
-      "local_currency": "NIO",
-      "price_cny": 9.15,
-      "price_cny_formatted": "9.15 CNY/L"
+      "local_currency": "NIO"
     },
     "diesel": {
       "price": 1.18,
@@ -283,9 +242,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 43.23,
-      "local_currency": "NIO",
-      "price_cny": 8.12,
-      "price_cny_formatted": "8.12 CNY/L"
+      "local_currency": "NIO"
     },
     "lpg": {
       "price": 0.0,
@@ -295,17 +252,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Nicaragua/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Nicaragua/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Nicaragua/lpg_prices/"
   },
   "Costa-Rica": {
     "country": "Costa Rica",
     "country_code": "Costa-Rica",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Costa-Rica/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Costa-Rica/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Costa-Rica/lpg_prices/",
     "gasoline": {
       "price": 1.36,
       "currency": "USD",
@@ -314,9 +269,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 633.0,
-      "local_currency": "CRC",
-      "price_cny": 9.36,
-      "price_cny_formatted": "9.36 CNY/L"
+      "local_currency": "CRC"
     },
     "diesel": {
       "price": 1.14,
@@ -326,9 +279,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 530.0,
-      "local_currency": "CRC",
-      "price_cny": 7.84,
-      "price_cny_formatted": "7.84 CNY/L"
+      "local_currency": "CRC"
     },
     "lpg": {
       "price": 0.0,
@@ -338,17 +289,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Costa-Rica/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Costa-Rica/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Costa-Rica/lpg_prices/"
   },
   "Panama": {
     "country": "Panama",
     "country_code": "Panama",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Panama/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Panama/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Panama/lpg_prices/",
     "gasoline": {
       "price": 1.15,
       "currency": "USD",
@@ -357,9 +306,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.14,
-      "local_currency": "PAB",
-      "price_cny": 7.91,
-      "price_cny_formatted": "7.91 CNY/L"
+      "local_currency": "PAB"
     },
     "diesel": {
       "price": 1.21,
@@ -369,9 +316,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.21,
-      "local_currency": "PAB",
-      "price_cny": 8.33,
-      "price_cny_formatted": "8.33 CNY/L"
+      "local_currency": "PAB"
     },
     "lpg": {
       "price": 0.0,
@@ -381,17 +326,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Panama/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Panama/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Panama/lpg_prices/"
   },
   "Jamaica": {
     "country": "Jamaica",
     "country_code": "Jamaica",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Jamaica/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Jamaica/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Jamaica/lpg_prices/",
     "gasoline": {
       "price": 1.32,
       "currency": "USD",
@@ -400,9 +343,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 208.64,
-      "local_currency": "JMD",
-      "price_cny": 9.08,
-      "price_cny_formatted": "9.08 CNY/L"
+      "local_currency": "JMD"
     },
     "diesel": {
       "price": 1.36,
@@ -412,9 +353,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 214.5,
-      "local_currency": "JMD",
-      "price_cny": 9.36,
-      "price_cny_formatted": "9.36 CNY/L"
+      "local_currency": "JMD"
     },
     "lpg": {
       "price": 0.0,
@@ -424,17 +363,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Jamaica/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Jamaica/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Jamaica/lpg_prices/"
   },
   "Dominican-Republic": {
     "country": "Dominican Republic",
     "country_code": "Dominican-Republic",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Dominican-Republic/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Dominican-Republic/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Dominican-Republic/lpg_prices/",
     "gasoline": {
       "price": 1.34,
       "currency": "USD",
@@ -443,9 +380,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 80.6,
-      "local_currency": "DOP",
-      "price_cny": 9.22,
-      "price_cny_formatted": "9.22 CNY/L"
+      "local_currency": "DOP"
     },
     "diesel": {
       "price": 1.05,
@@ -455,9 +390,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 63.35,
-      "local_currency": "DOP",
-      "price_cny": 7.22,
-      "price_cny_formatted": "7.22 CNY/L"
+      "local_currency": "DOP"
     },
     "lpg": {
       "price": 0.6,
@@ -467,17 +400,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 36.24,
-      "local_currency": "DOP",
-      "price_cny": 4.13,
-      "price_cny_formatted": "4.13 CNY/L"
-    }
+      "local_currency": "DOP"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Dominican-Republic/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Dominican-Republic/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Dominican-Republic/lpg_prices/"
   },
   "Brazil": {
     "country": "Brazil",
     "country_code": "Brazil",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Brazil/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Brazil/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Brazil/lpg_prices/",
     "gasoline": {
       "price": 1.27,
       "currency": "USD",
@@ -486,9 +417,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 6.78,
-      "local_currency": "BRL",
-      "price_cny": 8.74,
-      "price_cny_formatted": "8.74 CNY/L"
+      "local_currency": "BRL"
     },
     "diesel": {
       "price": 1.4,
@@ -498,9 +427,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 7.45,
-      "local_currency": "BRL",
-      "price_cny": 9.63,
-      "price_cny_formatted": "9.63 CNY/L"
+      "local_currency": "BRL"
     },
     "lpg": {
       "price": 0.0,
@@ -510,17 +437,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Brazil/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Brazil/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Brazil/lpg_prices/"
   },
   "Argentina": {
     "country": "Argentina",
     "country_code": "Argentina",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Argentina/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Argentina/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Argentina/lpg_prices/",
     "gasoline": {
       "price": 1.53,
       "currency": "USD",
@@ -529,9 +454,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2117.72,
-      "local_currency": "ARS",
-      "price_cny": 10.53,
-      "price_cny_formatted": "10.53 CNY/L"
+      "local_currency": "ARS"
     },
     "diesel": {
       "price": 1.63,
@@ -541,9 +464,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2246.13,
-      "local_currency": "ARS",
-      "price_cny": 11.22,
-      "price_cny_formatted": "11.22 CNY/L"
+      "local_currency": "ARS"
     },
     "lpg": {
       "price": 0.0,
@@ -553,17 +474,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Argentina/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Argentina/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Argentina/lpg_prices/"
   },
   "Chile": {
     "country": "Chile",
     "country_code": "Chile",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Chile/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Chile/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Chile/lpg_prices/",
     "gasoline": {
       "price": 1.53,
       "currency": "USD",
@@ -572,9 +491,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1413.5,
-      "local_currency": "CLP",
-      "price_cny": 10.53,
-      "price_cny_formatted": "10.53 CNY/L"
+      "local_currency": "CLP"
     },
     "diesel": {
       "price": 1.34,
@@ -584,9 +501,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1237.0,
-      "local_currency": "CLP",
-      "price_cny": 9.22,
-      "price_cny_formatted": "9.22 CNY/L"
+      "local_currency": "CLP"
     },
     "lpg": {
       "price": 0.7,
@@ -596,17 +511,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 647.0,
-      "local_currency": "CLP",
-      "price_cny": 4.82,
-      "price_cny_formatted": "4.82 CNY/L"
-    }
+      "local_currency": "CLP"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Chile/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Chile/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Chile/lpg_prices/"
   },
   "Colombia": {
     "country": "Colombia",
     "country_code": "Colombia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Colombia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Colombia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Colombia/lpg_prices/",
     "gasoline": {
       "price": 1.09,
       "currency": "USD",
@@ -615,9 +528,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3981.87,
-      "local_currency": "COP",
-      "price_cny": 7.5,
-      "price_cny_formatted": "7.50 CNY/L"
+      "local_currency": "COP"
     },
     "diesel": {
       "price": 0.8,
@@ -627,9 +538,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2906.16,
-      "local_currency": "COP",
-      "price_cny": 5.5,
-      "price_cny_formatted": "5.50 CNY/L"
+      "local_currency": "COP"
     },
     "lpg": {
       "price": 0.0,
@@ -639,17 +548,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Colombia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Colombia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Colombia/lpg_prices/"
   },
   "Peru": {
     "country": "Peru",
     "country_code": "Peru",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Peru/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Peru/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Peru/lpg_prices/",
     "gasoline": {
       "price": 1.6,
       "currency": "USD",
@@ -658,9 +565,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 5.58,
-      "local_currency": "PEN",
-      "price_cny": 11.01,
-      "price_cny_formatted": "11.01 CNY/L"
+      "local_currency": "PEN"
     },
     "diesel": {
       "price": 1.65,
@@ -670,9 +575,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 5.76,
-      "local_currency": "PEN",
-      "price_cny": 11.35,
-      "price_cny_formatted": "11.35 CNY/L"
+      "local_currency": "PEN"
     },
     "lpg": {
       "price": 0.79,
@@ -682,17 +585,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.75,
-      "local_currency": "PEN",
-      "price_cny": 5.44,
-      "price_cny_formatted": "5.44 CNY/L"
-    }
+      "local_currency": "PEN"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Peru/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Peru/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Peru/lpg_prices/"
   },
   "Ecuador": {
     "country": "Ecuador",
     "country_code": "Ecuador",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Ecuador/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Ecuador/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Ecuador/lpg_prices/",
     "gasoline": {
       "price": 0.76,
       "currency": "USD",
@@ -701,9 +602,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 5.23,
-      "price_cny_formatted": "5.23 CNY/L"
+      "local_currency": null
     },
     "diesel": {
       "price": 0.75,
@@ -713,9 +612,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 5.16,
-      "price_cny_formatted": "5.16 CNY/L"
+      "local_currency": null
     },
     "lpg": {
       "price": 0.0,
@@ -725,17 +622,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Ecuador/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Ecuador/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Ecuador/lpg_prices/"
   },
   "Bolivia": {
     "country": "Bolivia",
     "country_code": "Bolivia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Bolivia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Bolivia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Bolivia/lpg_prices/",
     "gasoline": {
       "price": 1.01,
       "currency": "USD",
@@ -744,9 +639,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 6.96,
-      "local_currency": "BOB",
-      "price_cny": 6.95,
-      "price_cny_formatted": "6.95 CNY/L"
+      "local_currency": "BOB"
     },
     "diesel": {
       "price": 1.42,
@@ -756,9 +649,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 9.8,
-      "local_currency": "BOB",
-      "price_cny": 9.77,
-      "price_cny_formatted": "9.77 CNY/L"
+      "local_currency": "BOB"
     },
     "lpg": {
       "price": 0.0,
@@ -768,17 +659,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Bolivia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Bolivia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Bolivia/lpg_prices/"
   },
   "Paraguay": {
     "country": "Paraguay",
     "country_code": "Paraguay",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Paraguay/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Paraguay/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Paraguay/lpg_prices/",
     "gasoline": {
       "price": 0.95,
       "currency": "USD",
@@ -787,9 +676,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 6140.0,
-      "local_currency": "PYG",
-      "price_cny": 6.54,
-      "price_cny_formatted": "6.54 CNY/L"
+      "local_currency": "PYG"
     },
     "diesel": {
       "price": 1.04,
@@ -799,9 +686,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 6700.0,
-      "local_currency": "PYG",
-      "price_cny": 7.16,
-      "price_cny_formatted": "7.16 CNY/L"
+      "local_currency": "PYG"
     },
     "lpg": {
       "price": 0.66,
@@ -811,17 +696,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 4240.0,
-      "local_currency": "PYG",
-      "price_cny": 4.54,
-      "price_cny_formatted": "4.54 CNY/L"
-    }
+      "local_currency": "PYG"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Paraguay/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Paraguay/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Paraguay/lpg_prices/"
   },
   "Uruguay": {
     "country": "Uruguay",
     "country_code": "Uruguay",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Uruguay/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Uruguay/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Uruguay/lpg_prices/",
     "gasoline": {
       "price": 1.89,
       "currency": "USD",
@@ -830,9 +713,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 76.88,
-      "local_currency": "UYU",
-      "price_cny": 13.0,
-      "price_cny_formatted": "13.00 CNY/L"
+      "local_currency": "UYU"
     },
     "diesel": {
       "price": 1.16,
@@ -842,9 +723,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 47.32,
-      "local_currency": "UYU",
-      "price_cny": 7.98,
-      "price_cny_formatted": "7.98 CNY/L"
+      "local_currency": "UYU"
     },
     "lpg": {
       "price": 0.0,
@@ -854,17 +733,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Uruguay/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Uruguay/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Uruguay/lpg_prices/"
   },
   "United-Kingdom": {
     "country": "United Kingdom",
     "country_code": "United-Kingdom",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/United-Kingdom/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/United-Kingdom/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/United-Kingdom/lpg_prices/",
     "gasoline": {
       "price": 1.97,
       "currency": "USD",
@@ -873,9 +750,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.49,
-      "local_currency": "GBP",
-      "price_cny": 13.55,
-      "price_cny_formatted": "13.55 CNY/L"
+      "local_currency": "GBP"
     },
     "diesel": {
       "price": 2.34,
@@ -885,9 +760,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.77,
-      "local_currency": "GBP",
-      "price_cny": 16.1,
-      "price_cny_formatted": "16.10 CNY/L"
+      "local_currency": "GBP"
     },
     "lpg": {
       "price": 1.29,
@@ -897,17 +770,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.97,
-      "local_currency": "GBP",
-      "price_cny": 8.88,
-      "price_cny_formatted": "8.88 CNY/L"
-    }
+      "local_currency": "GBP"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/United-Kingdom/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/United-Kingdom/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/United-Kingdom/lpg_prices/"
   },
   "Ireland": {
     "country": "Ireland",
     "country_code": "Ireland",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Ireland/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Ireland/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Ireland/lpg_prices/",
     "gasoline": {
       "price": 2.18,
       "currency": "USD",
@@ -916,9 +787,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.89,
-      "local_currency": "EUR",
-      "price_cny": 15.0,
-      "price_cny_formatted": "15.00 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.4,
@@ -928,9 +797,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.08,
-      "local_currency": "EUR",
-      "price_cny": 16.51,
-      "price_cny_formatted": "16.51 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 0.0,
@@ -940,17 +807,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Ireland/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Ireland/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Ireland/lpg_prices/"
   },
   "France": {
     "country": "France",
     "country_code": "France",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/France/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/France/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/France/lpg_prices/",
     "gasoline": {
       "price": 2.28,
       "currency": "USD",
@@ -959,9 +824,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.97,
-      "local_currency": "EUR",
-      "price_cny": 15.69,
-      "price_cny_formatted": "15.69 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.53,
@@ -971,9 +834,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.19,
-      "local_currency": "EUR",
-      "price_cny": 17.41,
-      "price_cny_formatted": "17.41 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.14,
@@ -983,17 +844,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.98,
-      "local_currency": "EUR",
-      "price_cny": 7.84,
-      "price_cny_formatted": "7.84 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/France/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/France/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/France/lpg_prices/"
   },
   "Germany": {
     "country": "Germany",
     "country_code": "Germany",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Germany/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Germany/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Germany/lpg_prices/",
     "gasoline": {
       "price": 2.42,
       "currency": "USD",
@@ -1002,9 +861,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.1,
-      "local_currency": "EUR",
-      "price_cny": 16.65,
-      "price_cny_formatted": "16.65 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.66,
@@ -1014,9 +871,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.31,
-      "local_currency": "EUR",
-      "price_cny": 18.3,
-      "price_cny_formatted": "18.30 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.3,
@@ -1026,17 +881,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.13,
-      "local_currency": "EUR",
-      "price_cny": 8.94,
-      "price_cny_formatted": "8.94 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Germany/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Germany/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Germany/lpg_prices/"
   },
   "Italy": {
     "country": "Italy",
     "country_code": "Italy",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Italy/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Italy/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Italy/lpg_prices/",
     "gasoline": {
       "price": 2.02,
       "currency": "USD",
@@ -1045,9 +898,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.75,
-      "local_currency": "EUR",
-      "price_cny": 13.9,
-      "price_cny_formatted": "13.90 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.39,
@@ -1057,9 +908,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.07,
-      "local_currency": "EUR",
-      "price_cny": 16.44,
-      "price_cny_formatted": "16.44 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 0.79,
@@ -1069,17 +918,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.68,
-      "local_currency": "EUR",
-      "price_cny": 5.44,
-      "price_cny_formatted": "5.44 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Italy/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Italy/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Italy/lpg_prices/"
   },
   "Spain": {
     "country": "Spain",
     "country_code": "Spain",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Spain/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Spain/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Spain/lpg_prices/",
     "gasoline": {
       "price": 1.79,
       "currency": "USD",
@@ -1088,9 +935,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.55,
-      "local_currency": "EUR",
-      "price_cny": 12.32,
-      "price_cny_formatted": "12.32 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.06,
@@ -1100,9 +945,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.78,
-      "local_currency": "EUR",
-      "price_cny": 14.17,
-      "price_cny_formatted": "14.17 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.07,
@@ -1112,17 +955,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.93,
-      "local_currency": "EUR",
-      "price_cny": 7.36,
-      "price_cny_formatted": "7.36 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Spain/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Spain/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Spain/lpg_prices/"
   },
   "Portugal": {
     "country": "Portugal",
     "country_code": "Portugal",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Portugal/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Portugal/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Portugal/lpg_prices/",
     "gasoline": {
       "price": 2.22,
       "currency": "USD",
@@ -1131,9 +972,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.92,
-      "local_currency": "EUR",
-      "price_cny": 15.27,
-      "price_cny_formatted": "15.27 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.39,
@@ -1143,9 +982,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.07,
-      "local_currency": "EUR",
-      "price_cny": 16.44,
-      "price_cny_formatted": "16.44 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.11,
@@ -1155,17 +992,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.96,
-      "local_currency": "EUR",
-      "price_cny": 7.64,
-      "price_cny_formatted": "7.64 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Portugal/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Portugal/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Portugal/lpg_prices/"
   },
   "Netherlands": {
     "country": "Netherlands",
     "country_code": "Netherlands",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Netherlands/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Netherlands/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Netherlands/lpg_prices/",
     "gasoline": {
       "price": 2.74,
       "currency": "USD",
@@ -1174,9 +1009,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.37,
-      "local_currency": "EUR",
-      "price_cny": 18.85,
-      "price_cny_formatted": "18.85 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.9,
@@ -1186,9 +1019,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.51,
-      "local_currency": "EUR",
-      "price_cny": 19.95,
-      "price_cny_formatted": "19.95 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.16,
@@ -1198,17 +1029,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.0,
-      "local_currency": "EUR",
-      "price_cny": 7.98,
-      "price_cny_formatted": "7.98 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Netherlands/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Netherlands/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Netherlands/lpg_prices/"
   },
   "Belgium": {
     "country": "Belgium",
     "country_code": "Belgium",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Belgium/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Belgium/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Belgium/lpg_prices/",
     "gasoline": {
       "price": 2.21,
       "currency": "USD",
@@ -1217,9 +1046,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.91,
-      "local_currency": "EUR",
-      "price_cny": 15.21,
-      "price_cny_formatted": "15.21 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.68,
@@ -1229,9 +1056,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.32,
-      "local_currency": "EUR",
-      "price_cny": 18.44,
-      "price_cny_formatted": "18.44 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.22,
@@ -1241,17 +1066,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.06,
-      "local_currency": "EUR",
-      "price_cny": 8.39,
-      "price_cny_formatted": "8.39 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Belgium/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Belgium/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Belgium/lpg_prices/"
   },
   "Luxembourg": {
     "country": "Luxembourg",
     "country_code": "Luxembourg",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Luxembourg/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Luxembourg/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Luxembourg/lpg_prices/",
     "gasoline": {
       "price": 2.03,
       "currency": "USD",
@@ -1260,9 +1083,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.76,
-      "local_currency": "EUR",
-      "price_cny": 13.97,
-      "price_cny_formatted": "13.97 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.32,
@@ -1272,9 +1093,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.01,
-      "local_currency": "EUR",
-      "price_cny": 15.96,
-      "price_cny_formatted": "15.96 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.07,
@@ -1284,17 +1103,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.93,
-      "local_currency": "EUR",
-      "price_cny": 7.36,
-      "price_cny_formatted": "7.36 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Luxembourg/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Luxembourg/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Luxembourg/lpg_prices/"
   },
   "Austria": {
     "country": "Austria",
     "country_code": "Austria",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Austria/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Austria/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Austria/lpg_prices/",
     "gasoline": {
       "price": 2.17,
       "currency": "USD",
@@ -1303,9 +1120,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.88,
-      "local_currency": "EUR",
-      "price_cny": 14.93,
-      "price_cny_formatted": "14.93 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.55,
@@ -1315,9 +1130,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.2,
-      "local_currency": "EUR",
-      "price_cny": 17.55,
-      "price_cny_formatted": "17.55 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 0.0,
@@ -1327,17 +1140,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Austria/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Austria/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Austria/lpg_prices/"
   },
   "Switzerland": {
     "country": "Switzerland",
     "country_code": "Switzerland",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Switzerland/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Switzerland/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Switzerland/lpg_prices/",
     "gasoline": {
       "price": 2.33,
       "currency": "USD",
@@ -1346,9 +1157,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.86,
-      "local_currency": "CHF",
-      "price_cny": 16.03,
-      "price_cny_formatted": "16.03 CNY/L"
+      "local_currency": "CHF"
     },
     "diesel": {
       "price": 2.73,
@@ -1358,9 +1167,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.18,
-      "local_currency": "CHF",
-      "price_cny": 18.78,
-      "price_cny_formatted": "18.78 CNY/L"
+      "local_currency": "CHF"
     },
     "lpg": {
       "price": 1.36,
@@ -1370,17 +1177,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.09,
-      "local_currency": "CHF",
-      "price_cny": 9.36,
-      "price_cny_formatted": "9.36 CNY/L"
-    }
+      "local_currency": "CHF"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Switzerland/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Switzerland/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Switzerland/lpg_prices/"
   },
   "Sweden": {
     "country": "Sweden",
     "country_code": "Sweden",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Sweden/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Sweden/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Sweden/lpg_prices/",
     "gasoline": {
       "price": 2.03,
       "currency": "USD",
@@ -1389,9 +1194,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 19.24,
-      "local_currency": "SEK",
-      "price_cny": 13.97,
-      "price_cny_formatted": "13.97 CNY/L"
+      "local_currency": "SEK"
     },
     "diesel": {
       "price": 2.56,
@@ -1401,9 +1204,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 24.27,
-      "local_currency": "SEK",
-      "price_cny": 17.61,
-      "price_cny_formatted": "17.61 CNY/L"
+      "local_currency": "SEK"
     },
     "lpg": {
       "price": 0.0,
@@ -1413,17 +1214,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Sweden/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Sweden/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Sweden/lpg_prices/"
   },
   "Norway": {
     "country": "Norway",
     "country_code": "Norway",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Norway/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Norway/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Norway/lpg_prices/",
     "gasoline": {
       "price": 2.36,
       "currency": "USD",
@@ -1432,9 +1231,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 22.87,
-      "local_currency": "NOK",
-      "price_cny": 16.24,
-      "price_cny_formatted": "16.24 CNY/L"
+      "local_currency": "NOK"
     },
     "diesel": {
       "price": 2.6,
@@ -1444,9 +1241,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 25.14,
-      "local_currency": "NOK",
-      "price_cny": 17.89,
-      "price_cny_formatted": "17.89 CNY/L"
+      "local_currency": "NOK"
     },
     "lpg": {
       "price": 0.0,
@@ -1456,17 +1251,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Norway/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Norway/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Norway/lpg_prices/"
   },
   "Denmark": {
     "country": "Denmark",
     "country_code": "Denmark",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Denmark/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Denmark/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Denmark/lpg_prices/",
     "gasoline": {
       "price": 2.66,
       "currency": "USD",
@@ -1475,9 +1268,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 17.22,
-      "local_currency": "DKK",
-      "price_cny": 18.3,
-      "price_cny_formatted": "18.30 CNY/L"
+      "local_currency": "DKK"
     },
     "diesel": {
       "price": 2.95,
@@ -1487,9 +1278,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 19.09,
-      "local_currency": "DKK",
-      "price_cny": 20.3,
-      "price_cny_formatted": "20.30 CNY/L"
+      "local_currency": "DKK"
     },
     "lpg": {
       "price": 0.0,
@@ -1499,17 +1288,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Denmark/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Denmark/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Denmark/lpg_prices/"
   },
   "Finland": {
     "country": "Finland",
     "country_code": "Finland",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Finland/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Finland/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Finland/lpg_prices/",
     "gasoline": {
       "price": 2.33,
       "currency": "USD",
@@ -1518,9 +1305,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.02,
-      "local_currency": "EUR",
-      "price_cny": 16.03,
-      "price_cny_formatted": "16.03 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.52,
@@ -1530,9 +1315,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.18,
-      "local_currency": "EUR",
-      "price_cny": 17.34,
-      "price_cny_formatted": "17.34 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 0.0,
@@ -1542,17 +1325,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Finland/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Finland/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Finland/lpg_prices/"
   },
   "Iceland": {
     "country": "Iceland",
     "country_code": "Iceland",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Iceland/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Iceland/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Iceland/lpg_prices/",
     "gasoline": {
       "price": 1.82,
       "currency": "USD",
@@ -1561,9 +1342,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 226.37,
-      "local_currency": "ISK",
-      "price_cny": 12.52,
-      "price_cny_formatted": "12.52 CNY/L"
+      "local_currency": "ISK"
     },
     "diesel": {
       "price": 2.1,
@@ -1573,9 +1352,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 260.24,
-      "local_currency": "ISK",
-      "price_cny": 14.45,
-      "price_cny_formatted": "14.45 CNY/L"
+      "local_currency": "ISK"
     },
     "lpg": {
       "price": 0.0,
@@ -1585,17 +1362,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Iceland/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Iceland/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Iceland/lpg_prices/"
   },
   "Poland": {
     "country": "Poland",
     "country_code": "Poland",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Poland/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Poland/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Poland/lpg_prices/",
     "gasoline": {
       "price": 1.92,
       "currency": "USD",
@@ -1604,9 +1379,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 7.11,
-      "local_currency": "PLN",
-      "price_cny": 13.21,
-      "price_cny_formatted": "13.21 CNY/L"
+      "local_currency": "PLN"
     },
     "diesel": {
       "price": 2.26,
@@ -1616,9 +1389,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 8.4,
-      "local_currency": "PLN",
-      "price_cny": 15.55,
-      "price_cny_formatted": "15.55 CNY/L"
+      "local_currency": "PLN"
     },
     "lpg": {
       "price": 0.96,
@@ -1628,17 +1399,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3.57,
-      "local_currency": "PLN",
-      "price_cny": 6.61,
-      "price_cny_formatted": "6.61 CNY/L"
-    }
+      "local_currency": "PLN"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Poland/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Poland/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Poland/lpg_prices/"
   },
   "Czech-Republic": {
     "country": "Czech Republic",
     "country_code": "Czech-Republic",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Czech-Republic/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Czech-Republic/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Czech-Republic/lpg_prices/",
     "gasoline": {
       "price": 1.92,
       "currency": "USD",
@@ -1647,9 +1416,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 40.83,
-      "local_currency": "CZK",
-      "price_cny": 13.21,
-      "price_cny_formatted": "13.21 CNY/L"
+      "local_currency": "CZK"
     },
     "diesel": {
       "price": 2.21,
@@ -1659,9 +1426,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 46.85,
-      "local_currency": "CZK",
-      "price_cny": 15.21,
-      "price_cny_formatted": "15.21 CNY/L"
+      "local_currency": "CZK"
     },
     "lpg": {
       "price": 0.97,
@@ -1671,17 +1436,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 20.57,
-      "local_currency": "CZK",
-      "price_cny": 6.67,
-      "price_cny_formatted": "6.67 CNY/L"
-    }
+      "local_currency": "CZK"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Czech-Republic/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Czech-Republic/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Czech-Republic/lpg_prices/"
   },
   "Slovakia": {
     "country": "Slovakia",
     "country_code": "Slovakia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Slovakia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Slovakia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Slovakia/lpg_prices/",
     "gasoline": {
       "price": 1.77,
       "currency": "USD",
@@ -1690,9 +1453,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.53,
-      "local_currency": "EUR",
-      "price_cny": 12.18,
-      "price_cny_formatted": "12.18 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 1.82,
@@ -1702,9 +1463,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.57,
-      "local_currency": "EUR",
-      "price_cny": 12.52,
-      "price_cny_formatted": "12.52 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 0.79,
@@ -1714,17 +1473,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.68,
-      "local_currency": "EUR",
-      "price_cny": 5.44,
-      "price_cny_formatted": "5.44 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Slovakia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Slovakia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Slovakia/lpg_prices/"
   },
   "Hungary": {
     "country": "Hungary",
     "country_code": "Hungary",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Hungary/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Hungary/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Hungary/lpg_prices/",
     "gasoline": {
       "price": 1.79,
       "currency": "USD",
@@ -1733,9 +1490,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 595.0,
-      "local_currency": "HUF",
-      "price_cny": 12.32,
-      "price_cny_formatted": "12.32 CNY/L"
+      "local_currency": "HUF"
     },
     "diesel": {
       "price": 1.85,
@@ -1745,9 +1500,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 615.0,
-      "local_currency": "HUF",
-      "price_cny": 12.73,
-      "price_cny_formatted": "12.73 CNY/L"
+      "local_currency": "HUF"
     },
     "lpg": {
       "price": 1.04,
@@ -1757,17 +1510,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 344.5,
-      "local_currency": "HUF",
-      "price_cny": 7.16,
-      "price_cny_formatted": "7.16 CNY/L"
-    }
+      "local_currency": "HUF"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Hungary/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Hungary/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Hungary/lpg_prices/"
   },
   "Romania": {
     "country": "Romania",
     "country_code": "Romania",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Romania/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Romania/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Romania/lpg_prices/",
     "gasoline": {
       "price": 2.13,
       "currency": "USD",
@@ -1776,9 +1527,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 9.4,
-      "local_currency": "RON",
-      "price_cny": 14.66,
-      "price_cny_formatted": "14.66 CNY/L"
+      "local_currency": "RON"
     },
     "diesel": {
       "price": 2.37,
@@ -1788,9 +1537,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 10.46,
-      "local_currency": "RON",
-      "price_cny": 16.31,
-      "price_cny_formatted": "16.31 CNY/L"
+      "local_currency": "RON"
     },
     "lpg": {
       "price": 0.93,
@@ -1800,17 +1547,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 4.12,
-      "local_currency": "RON",
-      "price_cny": 6.4,
-      "price_cny_formatted": "6.40 CNY/L"
-    }
+      "local_currency": "RON"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Romania/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Romania/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Romania/lpg_prices/"
   },
   "Bulgaria": {
     "country": "Bulgaria",
     "country_code": "Bulgaria",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Bulgaria/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Bulgaria/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Bulgaria/lpg_prices/",
     "gasoline": {
       "price": 1.63,
       "currency": "USD",
@@ -1819,9 +1564,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.41,
-      "local_currency": "EUR",
-      "price_cny": 11.22,
-      "price_cny_formatted": "11.22 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 1.87,
@@ -1831,9 +1574,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.62,
-      "local_currency": "EUR",
-      "price_cny": 12.87,
-      "price_cny_formatted": "12.87 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 0.82,
@@ -1843,17 +1584,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.71,
-      "local_currency": "EUR",
-      "price_cny": 5.64,
-      "price_cny_formatted": "5.64 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Bulgaria/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Bulgaria/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Bulgaria/lpg_prices/"
   },
   "Croatia": {
     "country": "Croatia",
     "country_code": "Croatia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Croatia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Croatia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Croatia/lpg_prices/",
     "gasoline": {
       "price": 1.81,
       "currency": "USD",
@@ -1862,9 +1601,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.57,
-      "local_currency": "EUR",
-      "price_cny": 12.45,
-      "price_cny_formatted": "12.45 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 1.96,
@@ -1874,9 +1611,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.69,
-      "local_currency": "EUR",
-      "price_cny": 13.49,
-      "price_cny_formatted": "13.49 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.28,
@@ -1886,17 +1621,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.11,
-      "local_currency": "EUR",
-      "price_cny": 8.81,
-      "price_cny_formatted": "8.81 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Croatia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Croatia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Croatia/lpg_prices/"
   },
   "Slovenia": {
     "country": "Slovenia",
     "country_code": "Slovenia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Slovenia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Slovenia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Slovenia/lpg_prices/",
     "gasoline": {
       "price": 1.87,
       "currency": "USD",
@@ -1905,9 +1638,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.62,
-      "local_currency": "EUR",
-      "price_cny": 12.87,
-      "price_cny_formatted": "12.87 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.09,
@@ -1917,9 +1648,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.81,
-      "local_currency": "EUR",
-      "price_cny": 14.38,
-      "price_cny_formatted": "14.38 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.21,
@@ -1929,17 +1658,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.05,
-      "local_currency": "EUR",
-      "price_cny": 8.33,
-      "price_cny_formatted": "8.33 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Slovenia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Slovenia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Slovenia/lpg_prices/"
   },
   "Serbia": {
     "country": "Serbia",
     "country_code": "Serbia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Serbia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Serbia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Serbia/lpg_prices/",
     "gasoline": {
       "price": 1.85,
       "currency": "USD",
@@ -1948,9 +1675,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 188.0,
-      "local_currency": "RSD",
-      "price_cny": 12.73,
-      "price_cny_formatted": "12.73 CNY/L"
+      "local_currency": "RSD"
     },
     "diesel": {
       "price": 2.1,
@@ -1960,9 +1685,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 213.0,
-      "local_currency": "RSD",
-      "price_cny": 14.45,
-      "price_cny_formatted": "14.45 CNY/L"
+      "local_currency": "RSD"
     },
     "lpg": {
       "price": 1.02,
@@ -1972,17 +1695,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 103.4,
-      "local_currency": "RSD",
-      "price_cny": 7.02,
-      "price_cny_formatted": "7.02 CNY/L"
-    }
+      "local_currency": "RSD"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Serbia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Serbia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Serbia/lpg_prices/"
   },
   "Bosnia-and-Herzegovina": {
     "country": "Bosnia and Herzegovina",
     "country_code": "Bosnia-and-Herzegovina",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Bosnia-and-Herzegovina/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Bosnia-and-Herzegovina/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Bosnia-and-Herzegovina/lpg_prices/",
     "gasoline": {
       "price": 1.58,
       "currency": "USD",
@@ -1991,9 +1712,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.69,
-      "local_currency": "BAM",
-      "price_cny": 10.87,
-      "price_cny_formatted": "10.87 CNY/L"
+      "local_currency": "BAM"
     },
     "diesel": {
       "price": 1.99,
@@ -2003,9 +1722,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3.4,
-      "local_currency": "BAM",
-      "price_cny": 13.69,
-      "price_cny_formatted": "13.69 CNY/L"
+      "local_currency": "BAM"
     },
     "lpg": {
       "price": 0.8,
@@ -2015,17 +1732,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.37,
-      "local_currency": "BAM",
-      "price_cny": 5.5,
-      "price_cny_formatted": "5.50 CNY/L"
-    }
+      "local_currency": "BAM"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Bosnia-and-Herzegovina/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Bosnia-and-Herzegovina/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Bosnia-and-Herzegovina/lpg_prices/"
   },
   "Estonia": {
     "country": "Estonia",
     "country_code": "Estonia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Estonia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Estonia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Estonia/lpg_prices/",
     "gasoline": {
       "price": 2.13,
       "currency": "USD",
@@ -2034,9 +1749,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.84,
-      "local_currency": "EUR",
-      "price_cny": 14.66,
-      "price_cny_formatted": "14.66 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.42,
@@ -2046,9 +1759,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.1,
-      "local_currency": "EUR",
-      "price_cny": 16.65,
-      "price_cny_formatted": "16.65 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.05,
@@ -2058,17 +1769,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.91,
-      "local_currency": "EUR",
-      "price_cny": 7.22,
-      "price_cny_formatted": "7.22 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Estonia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Estonia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Estonia/lpg_prices/"
   },
   "Latvia": {
     "country": "Latvia",
     "country_code": "Latvia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Latvia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Latvia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Latvia/lpg_prices/",
     "gasoline": {
       "price": 2.04,
       "currency": "USD",
@@ -2077,9 +1786,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.77,
-      "local_currency": "EUR",
-      "price_cny": 14.04,
-      "price_cny_formatted": "14.04 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.36,
@@ -2089,9 +1796,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.05,
-      "local_currency": "EUR",
-      "price_cny": 16.24,
-      "price_cny_formatted": "16.24 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.17,
@@ -2101,17 +1806,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.01,
-      "local_currency": "EUR",
-      "price_cny": 8.05,
-      "price_cny_formatted": "8.05 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Latvia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Latvia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Latvia/lpg_prices/"
   },
   "Lithuania": {
     "country": "Lithuania",
     "country_code": "Lithuania",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Lithuania/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Lithuania/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Lithuania/lpg_prices/",
     "gasoline": {
       "price": 1.99,
       "currency": "USD",
@@ -2120,9 +1823,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.73,
-      "local_currency": "EUR",
-      "price_cny": 13.69,
-      "price_cny_formatted": "13.69 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.43,
@@ -2132,9 +1833,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.1,
-      "local_currency": "EUR",
-      "price_cny": 16.72,
-      "price_cny_formatted": "16.72 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 1.01,
@@ -2144,17 +1843,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.88,
-      "local_currency": "EUR",
-      "price_cny": 6.95,
-      "price_cny_formatted": "6.95 CNY/L"
-    }
+      "local_currency": "EUR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Lithuania/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Lithuania/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Lithuania/lpg_prices/"
   },
   "Russia": {
     "country": "Russia",
     "country_code": "Russia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Russia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Russia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Russia/lpg_prices/",
     "gasoline": {
       "price": 0.83,
       "currency": "USD",
@@ -2163,9 +1860,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 67.29,
-      "local_currency": "RUB",
-      "price_cny": 5.71,
-      "price_cny_formatted": "5.71 CNY/L"
+      "local_currency": "RUB"
     },
     "diesel": {
       "price": 0.95,
@@ -2175,9 +1870,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 77.52,
-      "local_currency": "RUB",
-      "price_cny": 6.54,
-      "price_cny_formatted": "6.54 CNY/L"
+      "local_currency": "RUB"
     },
     "lpg": {
       "price": 0.4,
@@ -2187,17 +1880,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 32.09,
-      "local_currency": "RUB",
-      "price_cny": 2.75,
-      "price_cny_formatted": "2.75 CNY/L"
-    }
+      "local_currency": "RUB"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Russia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Russia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Russia/lpg_prices/"
   },
   "Ukraine": {
     "country": "Ukraine",
     "country_code": "Ukraine",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Ukraine/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Ukraine/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Ukraine/lpg_prices/",
     "gasoline": {
       "price": 1.67,
       "currency": "USD",
@@ -2206,9 +1897,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 73.47,
-      "local_currency": "UAH",
-      "price_cny": 11.49,
-      "price_cny_formatted": "11.49 CNY/L"
+      "local_currency": "UAH"
     },
     "diesel": {
       "price": 1.99,
@@ -2218,9 +1907,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 87.22,
-      "local_currency": "UAH",
-      "price_cny": 13.69,
-      "price_cny_formatted": "13.69 CNY/L"
+      "local_currency": "UAH"
     },
     "lpg": {
       "price": 1.08,
@@ -2230,17 +1917,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 47.46,
-      "local_currency": "UAH",
-      "price_cny": 7.43,
-      "price_cny_formatted": "7.43 CNY/L"
-    }
+      "local_currency": "UAH"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Ukraine/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Ukraine/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Ukraine/lpg_prices/"
   },
   "Belarus": {
     "country": "Belarus",
     "country_code": "Belarus",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Belarus/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Belarus/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Belarus/lpg_prices/",
     "gasoline": {
       "price": 0.89,
       "currency": "USD",
@@ -2249,9 +1934,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.64,
-      "local_currency": "BYN",
-      "price_cny": 6.12,
-      "price_cny_formatted": "6.12 CNY/L"
+      "local_currency": "BYN"
     },
     "diesel": {
       "price": 0.89,
@@ -2261,9 +1944,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.64,
-      "local_currency": "BYN",
-      "price_cny": 6.12,
-      "price_cny_formatted": "6.12 CNY/L"
+      "local_currency": "BYN"
     },
     "lpg": {
       "price": 0.44,
@@ -2273,17 +1954,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.31,
-      "local_currency": "BYN",
-      "price_cny": 3.03,
-      "price_cny_formatted": "3.03 CNY/L"
-    }
+      "local_currency": "BYN"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Belarus/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Belarus/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Belarus/lpg_prices/"
   },
   "Moldova": {
     "country": "Moldova",
     "country_code": "Moldova",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Moldova/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Moldova/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Moldova/lpg_prices/",
     "gasoline": {
       "price": 1.69,
       "currency": "USD",
@@ -2292,9 +1971,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 29.76,
-      "local_currency": "MDL",
-      "price_cny": 11.63,
-      "price_cny_formatted": "11.63 CNY/L"
+      "local_currency": "MDL"
     },
     "diesel": {
       "price": 1.83,
@@ -2304,9 +1981,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 32.19,
-      "local_currency": "MDL",
-      "price_cny": 12.59,
-      "price_cny_formatted": "12.59 CNY/L"
+      "local_currency": "MDL"
     },
     "lpg": {
       "price": 0.91,
@@ -2316,17 +1991,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 16.05,
-      "local_currency": "MDL",
-      "price_cny": 6.26,
-      "price_cny_formatted": "6.26 CNY/L"
-    }
+      "local_currency": "MDL"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Moldova/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Moldova/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Moldova/lpg_prices/"
   },
   "Georgia": {
     "country": "Georgia",
     "country_code": "Georgia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Georgia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Georgia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Georgia/lpg_prices/",
     "gasoline": {
       "price": 1.29,
       "currency": "USD",
@@ -2335,9 +2008,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3.46,
-      "local_currency": "GEL",
-      "price_cny": 8.88,
-      "price_cny_formatted": "8.88 CNY/L"
+      "local_currency": "GEL"
     },
     "diesel": {
       "price": 1.37,
@@ -2347,9 +2018,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3.68,
-      "local_currency": "GEL",
-      "price_cny": 9.43,
-      "price_cny_formatted": "9.43 CNY/L"
+      "local_currency": "GEL"
     },
     "lpg": {
       "price": 0.63,
@@ -2359,17 +2028,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.69,
-      "local_currency": "GEL",
-      "price_cny": 4.33,
-      "price_cny_formatted": "4.33 CNY/L"
-    }
+      "local_currency": "GEL"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Georgia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Georgia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Georgia/lpg_prices/"
   },
   "China": {
     "country": "China",
     "country_code": "China",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/China/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/China/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/China/lpg_prices/",
     "gasoline": {
       "price": 1.33,
       "currency": "USD",
@@ -2378,9 +2045,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 9.2,
-      "local_currency": "CNY",
-      "price_cny": 9.15,
-      "price_cny_formatted": "9.15 CNY/L"
+      "local_currency": "CNY"
     },
     "diesel": {
       "price": 1.2,
@@ -2390,9 +2055,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 8.25,
-      "local_currency": "CNY",
-      "price_cny": 8.26,
-      "price_cny_formatted": "8.26 CNY/L"
+      "local_currency": "CNY"
     },
     "lpg": {
       "price": 0.0,
@@ -2402,17 +2065,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/China/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/China/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/China/lpg_prices/"
   },
   "Japan": {
     "country": "Japan",
     "country_code": "Japan",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Japan/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Japan/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Japan/lpg_prices/",
     "gasoline": {
       "price": 1.13,
       "currency": "USD",
@@ -2421,9 +2082,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 178.6,
-      "local_currency": "JPY",
-      "price_cny": 7.77,
-      "price_cny_formatted": "7.77 CNY/L"
+      "local_currency": "JPY"
     },
     "diesel": {
       "price": 0.99,
@@ -2433,9 +2092,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 156.4,
-      "local_currency": "JPY",
-      "price_cny": 6.81,
-      "price_cny_formatted": "6.81 CNY/L"
+      "local_currency": "JPY"
     },
     "lpg": {
       "price": 0.0,
@@ -2445,17 +2102,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Japan/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Japan/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Japan/lpg_prices/"
   },
   "South-Korea": {
     "country": "South Korea",
     "country_code": "South-Korea",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/South-Korea/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/South-Korea/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/South-Korea/lpg_prices/",
     "gasoline": {
       "price": 1.38,
       "currency": "USD",
@@ -2464,9 +2119,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1819.23,
-      "local_currency": "KRW",
-      "price_cny": 9.5,
-      "price_cny_formatted": "9.50 CNY/L"
+      "local_currency": "KRW"
     },
     "diesel": {
       "price": 1.38,
@@ -2476,9 +2129,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1815.77,
-      "local_currency": "KRW",
-      "price_cny": 9.5,
-      "price_cny_formatted": "9.50 CNY/L"
+      "local_currency": "KRW"
     },
     "lpg": {
       "price": 0.77,
@@ -2488,17 +2139,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1011.77,
-      "local_currency": "KRW",
-      "price_cny": 5.3,
-      "price_cny_formatted": "5.30 CNY/L"
-    }
+      "local_currency": "KRW"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/South-Korea/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/South-Korea/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/South-Korea/lpg_prices/"
   },
   "Hong-Kong": {
     "country": "Hong Kong",
     "country_code": "Hong-Kong",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Hong-Kong/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Hong-Kong/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Hong-Kong/lpg_prices/",
     "gasoline": {
       "price": 4.11,
       "currency": "USD",
@@ -2507,9 +2156,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 32.19,
-      "local_currency": "HKD",
-      "price_cny": 28.28,
-      "price_cny_formatted": "28.28 CNY/L"
+      "local_currency": "HKD"
     },
     "diesel": {
       "price": 4.31,
@@ -2519,9 +2166,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 33.77,
-      "local_currency": "HKD",
-      "price_cny": 29.65,
-      "price_cny_formatted": "29.65 CNY/L"
+      "local_currency": "HKD"
     },
     "lpg": {
       "price": 0.0,
@@ -2531,17 +2176,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Hong-Kong/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Hong-Kong/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Hong-Kong/lpg_prices/"
   },
   "Taiwan": {
     "country": "Taiwan",
     "country_code": "Taiwan",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Taiwan/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Taiwan/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Taiwan/lpg_prices/",
     "gasoline": {
       "price": 1.06,
       "currency": "USD",
@@ -2550,9 +2193,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 33.9,
-      "local_currency": "TWD",
-      "price_cny": 7.29,
-      "price_cny_formatted": "7.29 CNY/L"
+      "local_currency": "TWD"
     },
     "diesel": {
       "price": 0.97,
@@ -2562,9 +2203,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 31.0,
-      "local_currency": "TWD",
-      "price_cny": 6.67,
-      "price_cny_formatted": "6.67 CNY/L"
+      "local_currency": "TWD"
     },
     "lpg": {
       "price": 0.51,
@@ -2574,17 +2213,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 16.3,
-      "local_currency": "TWD",
-      "price_cny": 3.51,
-      "price_cny_formatted": "3.51 CNY/L"
-    }
+      "local_currency": "TWD"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Taiwan/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Taiwan/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Taiwan/lpg_prices/"
   },
   "Singapore": {
     "country": "Singapore",
     "country_code": "Singapore",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Singapore/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Singapore/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Singapore/lpg_prices/",
     "gasoline": {
       "price": 2.55,
       "currency": "USD",
@@ -2593,9 +2230,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3.27,
-      "local_currency": "SGD",
-      "price_cny": 17.55,
-      "price_cny_formatted": "17.55 CNY/L"
+      "local_currency": "SGD"
     },
     "diesel": {
       "price": 2.98,
@@ -2605,9 +2240,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3.83,
-      "local_currency": "SGD",
-      "price_cny": 20.5,
-      "price_cny_formatted": "20.50 CNY/L"
+      "local_currency": "SGD"
     },
     "lpg": {
       "price": 0.0,
@@ -2617,17 +2250,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Singapore/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Singapore/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Singapore/lpg_prices/"
   },
   "Malaysia": {
     "country": "Malaysia",
     "country_code": "Malaysia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Malaysia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Malaysia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Malaysia/lpg_prices/",
     "gasoline": {
       "price": 0.96,
       "currency": "USD",
@@ -2636,9 +2267,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3.87,
-      "local_currency": "MYR",
-      "price_cny": 6.61,
-      "price_cny_formatted": "6.61 CNY/L"
+      "local_currency": "MYR"
     },
     "diesel": {
       "price": 1.36,
@@ -2648,9 +2277,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 5.52,
-      "local_currency": "MYR",
-      "price_cny": 9.36,
-      "price_cny_formatted": "9.36 CNY/L"
+      "local_currency": "MYR"
     },
     "lpg": {
       "price": 0.0,
@@ -2660,17 +2287,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Malaysia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Malaysia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Malaysia/lpg_prices/"
   },
   "Thailand": {
     "country": "Thailand",
     "country_code": "Thailand",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Thailand/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Thailand/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Thailand/lpg_prices/",
     "gasoline": {
       "price": 1.6,
       "currency": "USD",
@@ -2679,9 +2304,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 52.17,
-      "local_currency": "THB",
-      "price_cny": 11.01,
-      "price_cny_formatted": "11.01 CNY/L"
+      "local_currency": "THB"
     },
     "diesel": {
       "price": 1.22,
@@ -2691,9 +2314,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 39.88,
-      "local_currency": "THB",
-      "price_cny": 8.39,
-      "price_cny_formatted": "8.39 CNY/L"
+      "local_currency": "THB"
     },
     "lpg": {
       "price": 0.0,
@@ -2703,17 +2324,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Thailand/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Thailand/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Thailand/lpg_prices/"
   },
   "Vietnam": {
     "country": "Vietnam",
     "country_code": "Vietnam",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Vietnam/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Vietnam/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Vietnam/lpg_prices/",
     "gasoline": {
       "price": 0.94,
       "currency": "USD",
@@ -2722,9 +2341,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 24772.5,
-      "local_currency": "VND",
-      "price_cny": 6.47,
-      "price_cny_formatted": "6.47 CNY/L"
+      "local_currency": "VND"
     },
     "diesel": {
       "price": 1.36,
@@ -2734,9 +2351,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 35790.0,
-      "local_currency": "VND",
-      "price_cny": 9.36,
-      "price_cny_formatted": "9.36 CNY/L"
+      "local_currency": "VND"
     },
     "lpg": {
       "price": 0.0,
@@ -2746,17 +2361,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Vietnam/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Vietnam/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Vietnam/lpg_prices/"
   },
   "Philippines": {
     "country": "Philippines",
     "country_code": "Philippines",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Philippines/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Philippines/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Philippines/lpg_prices/",
     "gasoline": {
       "price": 1.59,
       "currency": "USD",
@@ -2765,9 +2378,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 95.9,
-      "local_currency": "PHP",
-      "price_cny": 10.94,
-      "price_cny_formatted": "10.94 CNY/L"
+      "local_currency": "PHP"
     },
     "diesel": {
       "price": 1.97,
@@ -2777,9 +2388,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 119.2,
-      "local_currency": "PHP",
-      "price_cny": 13.55,
-      "price_cny_formatted": "13.55 CNY/L"
+      "local_currency": "PHP"
     },
     "lpg": {
       "price": 0.68,
@@ -2789,17 +2398,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 40.74,
-      "local_currency": "PHP",
-      "price_cny": 4.68,
-      "price_cny_formatted": "4.68 CNY/L"
-    }
+      "local_currency": "PHP"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Philippines/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Philippines/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Philippines/lpg_prices/"
   },
   "Indonesia": {
     "country": "Indonesia",
     "country_code": "Indonesia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Indonesia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Indonesia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Indonesia/lpg_prices/",
     "gasoline": {
       "price": 12390.0,
       "currency": "IDR",
@@ -2808,9 +2415,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 12390.0,
-      "local_currency": "IDR",
-      "price_cny": 5.01,
-      "price_cny_formatted": "5.01 CNY/L"
+      "local_currency": "IDR"
     },
     "diesel": {
       "price": 14620.0,
@@ -2820,9 +2425,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 14620.0,
-      "local_currency": "IDR",
-      "price_cny": 5.92,
-      "price_cny_formatted": "5.92 CNY/L"
+      "local_currency": "IDR"
     },
     "lpg": {
       "price": 0.0,
@@ -2832,17 +2435,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Indonesia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Indonesia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Indonesia/lpg_prices/"
   },
   "Cambodia": {
     "country": "Cambodia",
     "country_code": "Cambodia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Cambodia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Cambodia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Cambodia/lpg_prices/",
     "gasoline": {
       "price": 1.55,
       "currency": "USD",
@@ -2851,9 +2452,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 6200.0,
-      "local_currency": "KHR",
-      "price_cny": 10.66,
-      "price_cny_formatted": "10.66 CNY/L"
+      "local_currency": "KHR"
     },
     "diesel": {
       "price": 1.8,
@@ -2863,9 +2462,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 7200.0,
-      "local_currency": "KHR",
-      "price_cny": 12.38,
-      "price_cny_formatted": "12.38 CNY/L"
+      "local_currency": "KHR"
     },
     "lpg": {
       "price": 0.0,
@@ -2875,17 +2472,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Cambodia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Cambodia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Cambodia/lpg_prices/"
   },
   "Laos": {
     "country": "Laos",
     "country_code": "Laos",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Laos/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Laos/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Laos/lpg_prices/",
     "gasoline": {
       "price": 1.78,
       "currency": "USD",
@@ -2894,9 +2489,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 39050.0,
-      "local_currency": "LAK",
-      "price_cny": 12.25,
-      "price_cny_formatted": "12.25 CNY/L"
+      "local_currency": "LAK"
     },
     "diesel": {
       "price": 1.89,
@@ -2906,9 +2499,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 41460.0,
-      "local_currency": "LAK",
-      "price_cny": 13.0,
-      "price_cny_formatted": "13.00 CNY/L"
+      "local_currency": "LAK"
     },
     "lpg": {
       "price": 0.0,
@@ -2918,17 +2509,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Laos/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Laos/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Laos/lpg_prices/"
   },
   "India": {
     "country": "India",
     "country_code": "India",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/India/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/India/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/India/lpg_prices/",
     "gasoline": {
       "price": 1.08,
       "currency": "USD",
@@ -2937,9 +2526,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 101.2,
-      "local_currency": "INR",
-      "price_cny": 7.43,
-      "price_cny_formatted": "7.43 CNY/L"
+      "local_currency": "INR"
     },
     "diesel": {
       "price": 0.97,
@@ -2949,9 +2536,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 90.58,
-      "local_currency": "INR",
-      "price_cny": 6.67,
-      "price_cny_formatted": "6.67 CNY/L"
+      "local_currency": "INR"
     },
     "lpg": {
       "price": 0.71,
@@ -2961,17 +2546,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 66.73,
-      "local_currency": "INR",
-      "price_cny": 4.89,
-      "price_cny_formatted": "4.89 CNY/L"
-    }
+      "local_currency": "INR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/India/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/India/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/India/lpg_prices/"
   },
   "Pakistan": {
     "country": "Pakistan",
     "country_code": "Pakistan",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Pakistan/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Pakistan/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Pakistan/lpg_prices/",
     "gasoline": {
       "price": 1.15,
       "currency": "USD",
@@ -2980,9 +2563,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 321.17,
-      "local_currency": "PKR",
-      "price_cny": 7.91,
-      "price_cny_formatted": "7.91 CNY/L"
+      "local_currency": "PKR"
     },
     "diesel": {
       "price": 1.2,
@@ -2992,9 +2573,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 335.86,
-      "local_currency": "PKR",
-      "price_cny": 8.26,
-      "price_cny_formatted": "8.26 CNY/L"
+      "local_currency": "PKR"
     },
     "lpg": {
       "price": 0.0,
@@ -3004,17 +2583,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Pakistan/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Pakistan/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Pakistan/lpg_prices/"
   },
   "Bangladesh": {
     "country": "Bangladesh",
     "country_code": "Bangladesh",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Bangladesh/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Bangladesh/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Bangladesh/lpg_prices/",
     "gasoline": {
       "price": 0.98,
       "currency": "USD",
@@ -3023,9 +2600,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 120.0,
-      "local_currency": "BDT",
-      "price_cny": 6.74,
-      "price_cny_formatted": "6.74 CNY/L"
+      "local_currency": "BDT"
     },
     "diesel": {
       "price": 0.82,
@@ -3035,9 +2610,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 100.0,
-      "local_currency": "BDT",
-      "price_cny": 5.64,
-      "price_cny_formatted": "5.64 CNY/L"
+      "local_currency": "BDT"
     },
     "lpg": {
       "price": 0.0,
@@ -3047,17 +2620,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Bangladesh/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Bangladesh/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Bangladesh/lpg_prices/"
   },
   "Sri-Lanka": {
     "country": "Sri Lanka",
     "country_code": "Sri-Lanka",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Sri-Lanka/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Sri-Lanka/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Sri-Lanka/lpg_prices/",
     "gasoline": {
       "price": 1.44,
       "currency": "USD",
@@ -3066,9 +2637,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 455.0,
-      "local_currency": "LKR",
-      "price_cny": 9.91,
-      "price_cny_formatted": "9.91 CNY/L"
+      "local_currency": "LKR"
     },
     "diesel": {
       "price": 1.41,
@@ -3078,9 +2647,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 443.0,
-      "local_currency": "LKR",
-      "price_cny": 9.7,
-      "price_cny_formatted": "9.70 CNY/L"
+      "local_currency": "LKR"
     },
     "lpg": {
       "price": 0.0,
@@ -3090,17 +2657,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Sri-Lanka/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Sri-Lanka/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Sri-Lanka/lpg_prices/"
   },
   "Nepal": {
     "country": "Nepal",
     "country_code": "Nepal",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Nepal/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Nepal/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Nepal/lpg_prices/",
     "gasoline": {
       "price": 1.23,
       "currency": "USD",
@@ -3109,9 +2674,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 187.0,
-      "local_currency": "NPR",
-      "price_cny": 8.46,
-      "price_cny_formatted": "8.46 CNY/L"
+      "local_currency": "NPR"
     },
     "diesel": {
       "price": 1.1,
@@ -3121,9 +2684,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 167.0,
-      "local_currency": "NPR",
-      "price_cny": 7.57,
-      "price_cny_formatted": "7.57 CNY/L"
+      "local_currency": "NPR"
     },
     "lpg": {
       "price": 0.0,
@@ -3133,17 +2694,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Nepal/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Nepal/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Nepal/lpg_prices/"
   },
   "Turkey": {
     "country": "Turkey",
     "country_code": "Turkey",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Turkey/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Turkey/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Turkey/lpg_prices/",
     "gasoline": {
       "price": 1.41,
       "currency": "USD",
@@ -3152,9 +2711,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 62.56,
-      "local_currency": "TRY",
-      "price_cny": 9.7,
-      "price_cny_formatted": "9.70 CNY/L"
+      "local_currency": "TRY"
     },
     "diesel": {
       "price": 1.74,
@@ -3164,9 +2721,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 77.43,
-      "local_currency": "TRY",
-      "price_cny": 11.97,
-      "price_cny_formatted": "11.97 CNY/L"
+      "local_currency": "TRY"
     },
     "lpg": {
       "price": 0.68,
@@ -3176,17 +2731,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 30.24,
-      "local_currency": "TRY",
-      "price_cny": 4.68,
-      "price_cny_formatted": "4.68 CNY/L"
-    }
+      "local_currency": "TRY"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Turkey/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Turkey/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Turkey/lpg_prices/"
   },
   "Saudi-Arabia": {
     "country": "Saudi Arabia",
     "country_code": "Saudi-Arabia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Saudi-Arabia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Saudi-Arabia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Saudi-Arabia/lpg_prices/",
     "gasoline": {
       "price": 0.62,
       "currency": "USD",
@@ -3195,9 +2748,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.33,
-      "local_currency": "SAR",
-      "price_cny": 4.27,
-      "price_cny_formatted": "4.27 CNY/L"
+      "local_currency": "SAR"
     },
     "diesel": {
       "price": 0.48,
@@ -3207,9 +2758,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.79,
-      "local_currency": "SAR",
-      "price_cny": 3.3,
-      "price_cny_formatted": "3.30 CNY/L"
+      "local_currency": "SAR"
     },
     "lpg": {
       "price": 0.29,
@@ -3219,17 +2768,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.09,
-      "local_currency": "SAR",
-      "price_cny": 2.0,
-      "price_cny_formatted": "2.00 CNY/L"
-    }
+      "local_currency": "SAR"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Saudi-Arabia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Saudi-Arabia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Saudi-Arabia/lpg_prices/"
   },
   "United-Arab-Emirates": {
     "country": "United Arab Emirates",
     "country_code": "United-Arab-Emirates",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/United-Arab-Emirates/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/United-Arab-Emirates/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/United-Arab-Emirates/lpg_prices/",
     "gasoline": {
       "price": 0.89,
       "currency": "USD",
@@ -3238,9 +2785,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3.28,
-      "local_currency": "AED",
-      "price_cny": 6.12,
-      "price_cny_formatted": "6.12 CNY/L"
+      "local_currency": "AED"
     },
     "diesel": {
       "price": 1.28,
@@ -3250,9 +2795,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 4.69,
-      "local_currency": "AED",
-      "price_cny": 8.81,
-      "price_cny_formatted": "8.81 CNY/L"
+      "local_currency": "AED"
     },
     "lpg": {
       "price": 0.0,
@@ -3262,17 +2805,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/United-Arab-Emirates/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/United-Arab-Emirates/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/United-Arab-Emirates/lpg_prices/"
   },
   "Qatar": {
     "country": "Qatar",
     "country_code": "Qatar",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Qatar/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Qatar/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Qatar/lpg_prices/",
     "gasoline": {
       "price": 0.56,
       "currency": "USD",
@@ -3281,9 +2822,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.05,
-      "local_currency": "QAR",
-      "price_cny": 3.85,
-      "price_cny_formatted": "3.85 CNY/L"
+      "local_currency": "QAR"
     },
     "diesel": {
       "price": 0.56,
@@ -3293,9 +2832,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.05,
-      "local_currency": "QAR",
-      "price_cny": 3.85,
-      "price_cny_formatted": "3.85 CNY/L"
+      "local_currency": "QAR"
     },
     "lpg": {
       "price": 0.0,
@@ -3305,17 +2842,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Qatar/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Qatar/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Qatar/lpg_prices/"
   },
   "Kuwait": {
     "country": "Kuwait",
     "country_code": "Kuwait",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Kuwait/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Kuwait/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Kuwait/lpg_prices/",
     "gasoline": {
       "price": 0.34,
       "currency": "USD",
@@ -3324,9 +2859,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.11,
-      "local_currency": "KWD",
-      "price_cny": 2.34,
-      "price_cny_formatted": "2.34 CNY/L"
+      "local_currency": "KWD"
     },
     "diesel": {
       "price": 0.37,
@@ -3336,9 +2869,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.12,
-      "local_currency": "KWD",
-      "price_cny": 2.55,
-      "price_cny_formatted": "2.55 CNY/L"
+      "local_currency": "KWD"
     },
     "lpg": {
       "price": 0.0,
@@ -3348,17 +2879,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Kuwait/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Kuwait/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Kuwait/lpg_prices/"
   },
   "Bahrain": {
     "country": "Bahrain",
     "country_code": "Bahrain",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Bahrain/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Bahrain/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Bahrain/lpg_prices/",
     "gasoline": {
       "price": 0.62,
       "currency": "USD",
@@ -3367,9 +2896,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.24,
-      "local_currency": "BHD",
-      "price_cny": 4.27,
-      "price_cny_formatted": "4.27 CNY/L"
+      "local_currency": "BHD"
     },
     "diesel": {
       "price": 0.53,
@@ -3379,9 +2906,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.2,
-      "local_currency": "BHD",
-      "price_cny": 3.65,
-      "price_cny_formatted": "3.65 CNY/L"
+      "local_currency": "BHD"
     },
     "lpg": {
       "price": 0.0,
@@ -3391,17 +2916,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Bahrain/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Bahrain/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Bahrain/lpg_prices/"
   },
   "Oman": {
     "country": "Oman",
     "country_code": "Oman",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Oman/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Oman/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Oman/lpg_prices/",
     "gasoline": {
       "price": 0.62,
       "currency": "USD",
@@ -3410,9 +2933,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.24,
-      "local_currency": "OMR",
-      "price_cny": 4.27,
-      "price_cny_formatted": "4.27 CNY/L"
+      "local_currency": "OMR"
     },
     "diesel": {
       "price": 0.67,
@@ -3422,9 +2943,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.26,
-      "local_currency": "OMR",
-      "price_cny": 4.61,
-      "price_cny_formatted": "4.61 CNY/L"
+      "local_currency": "OMR"
     },
     "lpg": {
       "price": 0.0,
@@ -3434,17 +2953,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Oman/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Oman/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Oman/lpg_prices/"
   },
   "Jordan": {
     "country": "Jordan",
     "country_code": "Jordan",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Jordan/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Jordan/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Jordan/lpg_prices/",
     "gasoline": {
       "price": 1.69,
       "currency": "USD",
@@ -3453,9 +2970,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.2,
-      "local_currency": "JOD",
-      "price_cny": 11.63,
-      "price_cny_formatted": "11.63 CNY/L"
+      "local_currency": "JOD"
     },
     "diesel": {
       "price": 1.02,
@@ -3465,9 +2980,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.72,
-      "local_currency": "JOD",
-      "price_cny": 7.02,
-      "price_cny_formatted": "7.02 CNY/L"
+      "local_currency": "JOD"
     },
     "lpg": {
       "price": 0.0,
@@ -3477,17 +2990,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Jordan/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Jordan/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Jordan/lpg_prices/"
   },
   "Lebanon": {
     "country": "Lebanon",
     "country_code": "Lebanon",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Lebanon/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Lebanon/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Lebanon/lpg_prices/",
     "gasoline": {
       "price": 1.21,
       "currency": "USD",
@@ -3496,9 +3007,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 119050.0,
-      "local_currency": "LBP",
-      "price_cny": 8.33,
-      "price_cny_formatted": "8.33 CNY/L"
+      "local_currency": "LBP"
     },
     "diesel": {
       "price": 1.19,
@@ -3508,9 +3017,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 117650.0,
-      "local_currency": "LBP",
-      "price_cny": 8.19,
-      "price_cny_formatted": "8.19 CNY/L"
+      "local_currency": "LBP"
     },
     "lpg": {
       "price": 0.94,
@@ -3520,17 +3027,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 92700.0,
-      "local_currency": "LBP",
-      "price_cny": 6.47,
-      "price_cny_formatted": "6.47 CNY/L"
-    }
+      "local_currency": "LBP"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Lebanon/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Lebanon/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Lebanon/lpg_prices/"
   },
   "Israel": {
     "country": "Israel",
     "country_code": "Israel",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Israel/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Israel/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Israel/lpg_prices/",
     "gasoline": {
       "price": 2.3,
       "currency": "USD",
@@ -3539,9 +3044,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 7.27,
-      "local_currency": "ILS",
-      "price_cny": 15.83,
-      "price_cny_formatted": "15.83 CNY/L"
+      "local_currency": "ILS"
     },
     "diesel": {
       "price": 2.19,
@@ -3551,9 +3054,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 6.91,
-      "local_currency": "ILS",
-      "price_cny": 15.07,
-      "price_cny_formatted": "15.07 CNY/L"
+      "local_currency": "ILS"
     },
     "lpg": {
       "price": 1.25,
@@ -3563,17 +3064,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3.95,
-      "local_currency": "ILS",
-      "price_cny": 8.6,
-      "price_cny_formatted": "8.60 CNY/L"
-    }
+      "local_currency": "ILS"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Israel/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Israel/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Israel/lpg_prices/"
   },
   "Cyprus": {
     "country": "Cyprus",
     "country_code": "Cyprus",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Cyprus/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Cyprus/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Cyprus/lpg_prices/",
     "gasoline": {
       "price": 1.83,
       "currency": "USD",
@@ -3582,9 +3081,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.58,
-      "local_currency": "EUR",
-      "price_cny": 12.59,
-      "price_cny_formatted": "12.59 CNY/L"
+      "local_currency": "EUR"
     },
     "diesel": {
       "price": 2.14,
@@ -3594,9 +3091,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.85,
-      "local_currency": "EUR",
-      "price_cny": 14.72,
-      "price_cny_formatted": "14.72 CNY/L"
+      "local_currency": "EUR"
     },
     "lpg": {
       "price": 0.0,
@@ -3606,17 +3101,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Cyprus/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Cyprus/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Cyprus/lpg_prices/"
   },
   "Egypt": {
     "country": "Egypt",
     "country_code": "Egypt",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Egypt/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Egypt/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Egypt/lpg_prices/",
     "gasoline": {
       "price": 0.44,
       "currency": "USD",
@@ -3625,9 +3118,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 24.0,
-      "local_currency": "EGP",
-      "price_cny": 3.03,
-      "price_cny_formatted": "3.03 CNY/L"
+      "local_currency": "EGP"
     },
     "diesel": {
       "price": 0.38,
@@ -3637,9 +3128,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 20.5,
-      "local_currency": "EGP",
-      "price_cny": 2.61,
-      "price_cny_formatted": "2.61 CNY/L"
+      "local_currency": "EGP"
     },
     "lpg": {
       "price": 0.0,
@@ -3649,17 +3138,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Egypt/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Egypt/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Egypt/lpg_prices/"
   },
   "Tunisia": {
     "country": "Tunisia",
     "country_code": "Tunisia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Tunisia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Tunisia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Tunisia/lpg_prices/",
     "gasoline": {
       "price": 0.86,
       "currency": "USD",
@@ -3668,9 +3155,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.53,
-      "local_currency": "TND",
-      "price_cny": 5.92,
-      "price_cny_formatted": "5.92 CNY/L"
+      "local_currency": "TND"
     },
     "diesel": {
       "price": 0.75,
@@ -3680,9 +3165,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.21,
-      "local_currency": "TND",
-      "price_cny": 5.16,
-      "price_cny_formatted": "5.16 CNY/L"
+      "local_currency": "TND"
     },
     "lpg": {
       "price": 0.0,
@@ -3692,17 +3175,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Tunisia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Tunisia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Tunisia/lpg_prices/"
   },
   "Algeria": {
     "country": "Algeria",
     "country_code": "Algeria",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Algeria/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Algeria/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Algeria/lpg_prices/",
     "gasoline": {
       "price": 0.35,
       "currency": "USD",
@@ -3711,9 +3192,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 47.0,
-      "local_currency": "DZD",
-      "price_cny": 2.41,
-      "price_cny_formatted": "2.41 CNY/L"
+      "local_currency": "DZD"
     },
     "diesel": {
       "price": 0.23,
@@ -3723,9 +3202,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 31.0,
-      "local_currency": "DZD",
-      "price_cny": 1.58,
-      "price_cny_formatted": "1.58 CNY/L"
+      "local_currency": "DZD"
     },
     "lpg": {
       "price": 0.09,
@@ -3735,17 +3212,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 12.0,
-      "local_currency": "DZD",
-      "price_cny": 0.62,
-      "price_cny_formatted": "0.62 CNY/L"
-    }
+      "local_currency": "DZD"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Algeria/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Algeria/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Algeria/lpg_prices/"
   },
   "Morocco": {
     "country": "Morocco",
     "country_code": "Morocco",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Morocco/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Morocco/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Morocco/lpg_prices/",
     "gasoline": {
       "price": 1.65,
       "currency": "USD",
@@ -3754,9 +3229,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 15.39,
-      "local_currency": "MAD",
-      "price_cny": 11.35,
-      "price_cny_formatted": "11.35 CNY/L"
+      "local_currency": "MAD"
     },
     "diesel": {
       "price": 1.55,
@@ -3766,9 +3239,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 14.46,
-      "local_currency": "MAD",
-      "price_cny": 10.66,
-      "price_cny_formatted": "10.66 CNY/L"
+      "local_currency": "MAD"
     },
     "lpg": {
       "price": 0.0,
@@ -3778,17 +3249,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Morocco/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Morocco/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Morocco/lpg_prices/"
   },
   "Ghana": {
     "country": "Ghana",
     "country_code": "Ghana",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Ghana/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Ghana/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Ghana/lpg_prices/",
     "gasoline": {
       "price": 1.31,
       "currency": "USD",
@@ -3797,9 +3266,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 14.35,
-      "local_currency": "GHS",
-      "price_cny": 9.01,
-      "price_cny_formatted": "9.01 CNY/L"
+      "local_currency": "GHS"
     },
     "diesel": {
       "price": 1.56,
@@ -3809,9 +3276,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 17.1,
-      "local_currency": "GHS",
-      "price_cny": 10.73,
-      "price_cny_formatted": "10.73 CNY/L"
+      "local_currency": "GHS"
     },
     "lpg": {
       "price": 0.0,
@@ -3821,17 +3286,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Ghana/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Ghana/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Ghana/lpg_prices/"
   },
   "Ivory-Coast": {
     "country": "Ivory Coast",
     "country_code": "Ivory-Coast",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Ivory-Coast/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Ivory-Coast/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Ivory-Coast/lpg_prices/",
     "gasoline": {
       "price": 1.44,
       "currency": "USD",
@@ -3840,9 +3303,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 820.0,
-      "local_currency": "XOF",
-      "price_cny": 9.91,
-      "price_cny_formatted": "9.91 CNY/L"
+      "local_currency": "XOF"
     },
     "diesel": {
       "price": 1.18,
@@ -3852,9 +3313,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 675.0,
-      "local_currency": "XOF",
-      "price_cny": 8.12,
-      "price_cny_formatted": "8.12 CNY/L"
+      "local_currency": "XOF"
     },
     "lpg": {
       "price": 0.0,
@@ -3864,17 +3323,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Ivory-Coast/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Ivory-Coast/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Ivory-Coast/lpg_prices/"
   },
   "Burkina-Faso": {
     "country": "Burkina Faso",
     "country_code": "Burkina-Faso",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Burkina-Faso/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Burkina-Faso/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Burkina-Faso/lpg_prices/",
     "gasoline": {
       "price": 1.49,
       "currency": "USD",
@@ -3883,9 +3340,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 850.0,
-      "local_currency": "XOF",
-      "price_cny": 10.25,
-      "price_cny_formatted": "10.25 CNY/L"
+      "local_currency": "XOF"
     },
     "diesel": {
       "price": 1.18,
@@ -3895,9 +3350,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 675.0,
-      "local_currency": "XOF",
-      "price_cny": 8.12,
-      "price_cny_formatted": "8.12 CNY/L"
+      "local_currency": "XOF"
     },
     "lpg": {
       "price": 0.0,
@@ -3907,17 +3360,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Burkina-Faso/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Burkina-Faso/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Burkina-Faso/lpg_prices/"
   },
   "Benin": {
     "country": "Benin",
     "country_code": "Benin",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Benin/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Benin/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Benin/lpg_prices/",
     "gasoline": {
       "price": 1.22,
       "currency": "USD",
@@ -3926,9 +3377,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 695.0,
-      "local_currency": "XOF",
-      "price_cny": 8.39,
-      "price_cny_formatted": "8.39 CNY/L"
+      "local_currency": "XOF"
     },
     "diesel": {
       "price": 1.26,
@@ -3938,9 +3387,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 720.0,
-      "local_currency": "XOF",
-      "price_cny": 8.67,
-      "price_cny_formatted": "8.67 CNY/L"
+      "local_currency": "XOF"
     },
     "lpg": {
       "price": 0.0,
@@ -3950,17 +3397,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Benin/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Benin/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Benin/lpg_prices/"
   },
   "Sierra-Leone": {
     "country": "Sierra Leone",
     "country_code": "Sierra-Leone",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Sierra-Leone/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Sierra-Leone/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Sierra-Leone/lpg_prices/",
     "gasoline": {
       "price": 1.63,
       "currency": "USD",
@@ -3969,9 +3414,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 32000.0,
-      "local_currency": "SLL",
-      "price_cny": 11.22,
-      "price_cny_formatted": "11.22 CNY/L"
+      "local_currency": "SLL"
     },
     "diesel": {
       "price": 1.78,
@@ -3981,9 +3424,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 35000.0,
-      "local_currency": "SLL",
-      "price_cny": 12.25,
-      "price_cny_formatted": "12.25 CNY/L"
+      "local_currency": "SLL"
     },
     "lpg": {
       "price": 0.0,
@@ -3993,17 +3434,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Sierra-Leone/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Sierra-Leone/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Sierra-Leone/lpg_prices/"
   },
   "Cameroon": {
     "country": "Cameroon",
     "country_code": "Cameroon",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Cameroon/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Cameroon/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Cameroon/lpg_prices/",
     "gasoline": {
       "price": 1.47,
       "currency": "USD",
@@ -4012,9 +3451,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 840.0,
-      "local_currency": "XAF",
-      "price_cny": 10.11,
-      "price_cny_formatted": "10.11 CNY/L"
+      "local_currency": "XAF"
     },
     "diesel": {
       "price": 1.45,
@@ -4024,9 +3461,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 828.0,
-      "local_currency": "XAF",
-      "price_cny": 9.98,
-      "price_cny_formatted": "9.98 CNY/L"
+      "local_currency": "XAF"
     },
     "lpg": {
       "price": 0.0,
@@ -4036,17 +3471,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Cameroon/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Cameroon/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Cameroon/lpg_prices/"
   },
   "Kenya": {
     "country": "Kenya",
     "country_code": "Kenya",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Kenya/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Kenya/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Kenya/lpg_prices/",
     "gasoline": {
       "price": 1.36,
       "currency": "USD",
@@ -4055,9 +3488,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 177.2,
-      "local_currency": "KES",
-      "price_cny": 9.36,
-      "price_cny_formatted": "9.36 CNY/L"
+      "local_currency": "KES"
     },
     "diesel": {
       "price": 1.27,
@@ -4067,9 +3498,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 165.63,
-      "local_currency": "KES",
-      "price_cny": 8.74,
-      "price_cny_formatted": "8.74 CNY/L"
+      "local_currency": "KES"
     },
     "lpg": {
       "price": 0.0,
@@ -4079,17 +3508,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Kenya/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Kenya/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Kenya/lpg_prices/"
   },
   "Tanzania": {
     "country": "Tanzania",
     "country_code": "Tanzania",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Tanzania/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Tanzania/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Tanzania/lpg_prices/",
     "gasoline": {
       "price": 1.11,
       "currency": "USD",
@@ -4098,9 +3525,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2864.0,
-      "local_currency": "TZS",
-      "price_cny": 7.64,
-      "price_cny_formatted": "7.64 CNY/L"
+      "local_currency": "TZS"
     },
     "diesel": {
       "price": 1.1,
@@ -4110,9 +3535,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2858.0,
-      "local_currency": "TZS",
-      "price_cny": 7.57,
-      "price_cny_formatted": "7.57 CNY/L"
+      "local_currency": "TZS"
     },
     "lpg": {
       "price": 0.0,
@@ -4122,17 +3545,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Tanzania/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Tanzania/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Tanzania/lpg_prices/"
   },
   "Rwanda": {
     "country": "Rwanda",
     "country_code": "Rwanda",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Rwanda/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Rwanda/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Rwanda/lpg_prices/",
     "gasoline": {
       "price": 1.36,
       "currency": "USD",
@@ -4141,9 +3562,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1989.0,
-      "local_currency": "RWF",
-      "price_cny": 9.36,
-      "price_cny_formatted": "9.36 CNY/L"
+      "local_currency": "RWF"
     },
     "diesel": {
       "price": 1.33,
@@ -4153,9 +3572,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1948.0,
-      "local_currency": "RWF",
-      "price_cny": 9.15,
-      "price_cny_formatted": "9.15 CNY/L"
+      "local_currency": "RWF"
     },
     "lpg": {
       "price": 0.0,
@@ -4165,17 +3582,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Rwanda/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Rwanda/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Rwanda/lpg_prices/"
   },
   "Madagascar": {
     "country": "Madagascar",
     "country_code": "Madagascar",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Madagascar/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Madagascar/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Madagascar/lpg_prices/",
     "gasoline": {
       "price": 1.17,
       "currency": "USD",
@@ -4184,9 +3599,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 4900.0,
-      "local_currency": "MGA",
-      "price_cny": 8.05,
-      "price_cny_formatted": "8.05 CNY/L"
+      "local_currency": "MGA"
     },
     "diesel": {
       "price": 1.12,
@@ -4196,9 +3609,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 4660.0,
-      "local_currency": "MGA",
-      "price_cny": 7.71,
-      "price_cny_formatted": "7.71 CNY/L"
+      "local_currency": "MGA"
     },
     "lpg": {
       "price": 0.0,
@@ -4208,17 +3619,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Madagascar/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Madagascar/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Madagascar/lpg_prices/"
   },
   "Mauritius": {
     "country": "Mauritius",
     "country_code": "Mauritius",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Mauritius/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Mauritius/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Mauritius/lpg_prices/",
     "gasoline": {
       "price": 1.24,
       "currency": "USD",
@@ -4227,9 +3636,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 58.45,
-      "local_currency": "MUR",
-      "price_cny": 8.53,
-      "price_cny_formatted": "8.53 CNY/L"
+      "local_currency": "MUR"
     },
     "diesel": {
       "price": 1.38,
@@ -4239,9 +3646,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 64.8,
-      "local_currency": "MUR",
-      "price_cny": 9.5,
-      "price_cny_formatted": "9.50 CNY/L"
+      "local_currency": "MUR"
     },
     "lpg": {
       "price": 0.0,
@@ -4251,17 +3656,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Mauritius/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Mauritius/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Mauritius/lpg_prices/"
   },
   "South-Africa": {
     "country": "South Africa",
     "country_code": "South-Africa",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/South-Africa/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/South-Africa/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/South-Africa/lpg_prices/",
     "gasoline": {
       "price": 1.18,
       "currency": "USD",
@@ -4270,9 +3673,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 19.89,
-      "local_currency": "ZAR",
-      "price_cny": 8.12,
-      "price_cny_formatted": "8.12 CNY/L"
+      "local_currency": "ZAR"
     },
     "diesel": {
       "price": 1.26,
@@ -4282,9 +3683,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 21.27,
-      "local_currency": "ZAR",
-      "price_cny": 8.67,
-      "price_cny_formatted": "8.67 CNY/L"
+      "local_currency": "ZAR"
     },
     "lpg": {
       "price": 0.0,
@@ -4294,17 +3693,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/South-Africa/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/South-Africa/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/South-Africa/lpg_prices/"
   },
   "Namibia": {
     "country": "Namibia",
     "country_code": "Namibia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Namibia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Namibia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Namibia/lpg_prices/",
     "gasoline": {
       "price": 1.29,
       "currency": "USD",
@@ -4313,9 +3710,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 22.08,
-      "local_currency": "NAD",
-      "price_cny": 8.88,
-      "price_cny_formatted": "8.88 CNY/L"
+      "local_currency": "NAD"
     },
     "diesel": {
       "price": 1.38,
@@ -4325,9 +3720,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 23.63,
-      "local_currency": "NAD",
-      "price_cny": 9.5,
-      "price_cny_formatted": "9.50 CNY/L"
+      "local_currency": "NAD"
     },
     "lpg": {
       "price": 0.0,
@@ -4337,17 +3730,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Namibia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Namibia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Namibia/lpg_prices/"
   },
   "Zimbabwe": {
     "country": "Zimbabwe",
     "country_code": "Zimbabwe",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Zimbabwe/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Zimbabwe/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Zimbabwe/lpg_prices/",
     "gasoline": {
       "price": 2.17,
       "currency": "USD",
@@ -4356,9 +3747,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2170.0,
-      "local_currency": "ZWD",
-      "price_cny": 14.93,
-      "price_cny_formatted": "14.93 CNY/L"
+      "local_currency": "ZWD"
     },
     "diesel": {
       "price": 2.05,
@@ -4368,9 +3757,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2050.0,
-      "local_currency": "ZWD",
-      "price_cny": 14.11,
-      "price_cny_formatted": "14.11 CNY/L"
+      "local_currency": "ZWD"
     },
     "lpg": {
       "price": 0.0,
@@ -4380,17 +3767,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Zimbabwe/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Zimbabwe/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Zimbabwe/lpg_prices/"
   },
   "Zambia": {
     "country": "Zambia",
     "country_code": "Zambia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Zambia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Zambia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Zambia/lpg_prices/",
     "gasoline": {
       "price": 1.42,
       "currency": "USD",
@@ -4399,9 +3784,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 27.15,
-      "local_currency": "ZMW",
-      "price_cny": 9.77,
-      "price_cny_formatted": "9.77 CNY/L"
+      "local_currency": "ZMW"
     },
     "diesel": {
       "price": 1.56,
@@ -4411,9 +3794,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 29.78,
-      "local_currency": "ZMW",
-      "price_cny": 10.73,
-      "price_cny_formatted": "10.73 CNY/L"
+      "local_currency": "ZMW"
     },
     "lpg": {
       "price": 0.0,
@@ -4423,17 +3804,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Zambia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Zambia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Zambia/lpg_prices/"
   },
   "Malawi": {
     "country": "Malawi",
     "country_code": "Malawi",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Malawi/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Malawi/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Malawi/lpg_prices/",
     "gasoline": {
       "price": 2.86,
       "currency": "USD",
@@ -4442,9 +3821,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 4965.0,
-      "local_currency": "MWK",
-      "price_cny": 19.68,
-      "price_cny_formatted": "19.68 CNY/L"
+      "local_currency": "MWK"
     },
     "diesel": {
       "price": 2.85,
@@ -4454,9 +3831,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 4945.0,
-      "local_currency": "MWK",
-      "price_cny": 19.61,
-      "price_cny_formatted": "19.61 CNY/L"
+      "local_currency": "MWK"
     },
     "lpg": {
       "price": 0.0,
@@ -4466,17 +3841,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Malawi/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Malawi/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Malawi/lpg_prices/"
   },
   "Mozambique": {
     "country": "Mozambique",
     "country_code": "Mozambique",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Mozambique/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Mozambique/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Mozambique/lpg_prices/",
     "gasoline": {
       "price": 1.31,
       "currency": "USD",
@@ -4485,9 +3858,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 83.57,
-      "local_currency": "MZN",
-      "price_cny": 9.01,
-      "price_cny_formatted": "9.01 CNY/L"
+      "local_currency": "MZN"
     },
     "diesel": {
       "price": 1.25,
@@ -4497,9 +3868,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 79.88,
-      "local_currency": "MZN",
-      "price_cny": 8.6,
-      "price_cny_formatted": "8.60 CNY/L"
+      "local_currency": "MZN"
     },
     "lpg": {
       "price": 0.0,
@@ -4509,17 +3878,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Mozambique/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Mozambique/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Mozambique/lpg_prices/"
   },
   "Lesotho": {
     "country": "Lesotho",
     "country_code": "Lesotho",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Lesotho/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Lesotho/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Lesotho/lpg_prices/",
     "gasoline": {
       "price": 1.05,
       "currency": "USD",
@@ -4528,9 +3895,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 17.95,
-      "local_currency": "LSL",
-      "price_cny": 7.22,
-      "price_cny_formatted": "7.22 CNY/L"
+      "local_currency": "LSL"
     },
     "diesel": {
       "price": 1.14,
@@ -4540,9 +3905,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 19.4,
-      "local_currency": "LSL",
-      "price_cny": 7.84,
-      "price_cny_formatted": "7.84 CNY/L"
+      "local_currency": "LSL"
     },
     "lpg": {
       "price": 0.0,
@@ -4552,17 +3915,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Lesotho/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Lesotho/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Lesotho/lpg_prices/"
   },
   "Australia": {
     "country": "Australia",
     "country_code": "Australia",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Australia/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Australia/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Australia/lpg_prices/",
     "gasoline": {
       "price": 1.59,
       "currency": "USD",
@@ -4571,9 +3932,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.3,
-      "local_currency": "AUD",
-      "price_cny": 10.94,
-      "price_cny_formatted": "10.94 CNY/L"
+      "local_currency": "AUD"
     },
     "diesel": {
       "price": 1.89,
@@ -4583,9 +3942,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.74,
-      "local_currency": "AUD",
-      "price_cny": 13.0,
-      "price_cny_formatted": "13.00 CNY/L"
+      "local_currency": "AUD"
     },
     "lpg": {
       "price": 0.41,
@@ -4595,17 +3952,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 0.6,
-      "local_currency": "AUD",
-      "price_cny": 2.82,
-      "price_cny_formatted": "2.82 CNY/L"
-    }
+      "local_currency": "AUD"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Australia/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Australia/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Australia/lpg_prices/"
   },
   "New-Zealand": {
     "country": "New Zealand",
     "country_code": "New-Zealand",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/New-Zealand/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/New-Zealand/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/New-Zealand/lpg_prices/",
     "gasoline": {
       "price": 1.88,
       "currency": "USD",
@@ -4614,9 +3969,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 3.27,
-      "local_currency": "NZD",
-      "price_cny": 12.94,
-      "price_cny_formatted": "12.94 CNY/L"
+      "local_currency": "NZD"
     },
     "diesel": {
       "price": 1.64,
@@ -4626,9 +3979,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.86,
-      "local_currency": "NZD",
-      "price_cny": 11.28,
-      "price_cny_formatted": "11.28 CNY/L"
+      "local_currency": "NZD"
     },
     "lpg": {
       "price": 0.0,
@@ -4638,17 +3989,15 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": null,
-      "local_currency": null,
-      "price_cny": 0.0,
-      "price_cny_formatted": "0.00 CNY/L"
-    }
+      "local_currency": null
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/New-Zealand/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/New-Zealand/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/New-Zealand/lpg_prices/"
   },
   "Fiji": {
     "country": "Fiji",
     "country_code": "Fiji",
-    "source_url_gasoline": "https://www.globalpetrolprices.com/Fiji/gasoline_prices/",
-    "source_url_diesel": "https://www.globalpetrolprices.com/Fiji/diesel_prices/",
-    "source_url_lpg": "https://www.globalpetrolprices.com/Fiji/lpg_prices/",
     "gasoline": {
       "price": 1.31,
       "currency": "USD",
@@ -4657,9 +4006,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.93,
-      "local_currency": "FJD",
-      "price_cny": 9.01,
-      "price_cny_formatted": "9.01 CNY/L"
+      "local_currency": "FJD"
     },
     "diesel": {
       "price": 1.29,
@@ -4669,9 +4016,7 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 2.89,
-      "local_currency": "FJD",
-      "price_cny": 8.88,
-      "price_cny_formatted": "8.88 CNY/L"
+      "local_currency": "FJD"
     },
     "lpg": {
       "price": 0.89,
@@ -4681,9 +4026,10 @@
       "update_date": "2026-04-03",
       "price_date": "30-Mar-2026",
       "local_price": 1.98,
-      "local_currency": "FJD",
-      "price_cny": 6.12,
-      "price_cny_formatted": "6.12 CNY/L"
-    }
+      "local_currency": "FJD"
+    },
+    "source_url_gasoline": "https://www.globalpetrolprices.com/Fiji/gasoline_prices/",
+    "source_url_diesel": "https://www.globalpetrolprices.com/Fiji/diesel_prices/",
+    "source_url_lpg": "https://www.globalpetrolprices.com/Fiji/lpg_prices/"
   }
 }
