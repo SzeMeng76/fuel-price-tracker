@@ -85,12 +85,14 @@ def process_fuel_prices():
             # 处理汽油价格
             gasoline_data = data.get('gasoline')
             diesel_data = data.get('diesel')
+            lpg_data = data.get('lpg')
 
             processed_country = {
                 'country': data.get('country'),
                 'country_code': data.get('country_code'),
                 'source_url_gasoline': data.get('source_url_gasoline'),
-                'source_url_diesel': data.get('source_url_diesel')
+                'source_url_diesel': data.get('source_url_diesel'),
+                'source_url_lpg': data.get('source_url_lpg')
             }
 
             # 转换汽油价格
@@ -113,6 +115,18 @@ def process_fuel_prices():
 
                 processed_country['diesel'] = {
                     **diesel_data,
+                    'price_cny': price_cny,
+                    'price_cny_formatted': f'{price_cny:.2f} CNY/L'
+                }
+
+            # 转换LPG价格
+            if lpg_data:
+                price = lpg_data.get('price', 0)
+                currency = lpg_data.get('currency', 'USD')
+                price_cny = convert_to_cny(price, currency, rates)
+
+                processed_country['lpg'] = {
+                    **lpg_data,
                     'price_cny': price_cny,
                     'price_cny_formatted': f'{price_cny:.2f} CNY/L'
                 }
@@ -146,7 +160,7 @@ def process_fuel_prices():
 
 
 def generate_rankings(data: dict):
-    """生成价格排行榜（汽油和柴油）"""
+    """生成价格排行榜（汽油、柴油和LPG）"""
     print("\n=== 全球燃油价格排行榜 (CNY/升) ===\n")
 
     # 汽油排行榜
@@ -193,6 +207,29 @@ def generate_rankings(data: dict):
         prices = [info['diesel']['price_cny'] for _, info in diesel_data]
         avg_price = sum(prices) / len(prices)
         print(f"\n全球柴油平均价格: {avg_price:.2f} CNY/L")
+        print(f"价格范围: {min(prices):.2f} - {max(prices):.2f} CNY/L")
+
+    # LPG排行榜
+    lpg_data = [(code, info) for code, info in data.items()
+                if info.get('lpg') and info['lpg'].get('price_cny', 0) > 0]
+
+    if lpg_data:
+        print("\n\n⛽ LPG价格排行榜:")
+        cheapest_lpg = sorted(lpg_data, key=lambda x: x[1]['lpg']['price_cny'])[:10]
+        print("\n最便宜的10个国家:")
+        for i, (code, info) in enumerate(cheapest_lpg, 1):
+            lpg = info['lpg']
+            print(f"{i:2d}. {info['country']:25s} {lpg['price_cny']:6.2f} CNY/L ({lpg['price']:.2f} {lpg['currency']}/L)")
+
+        most_expensive_lpg = sorted(lpg_data, key=lambda x: x[1]['lpg']['price_cny'], reverse=True)[:10]
+        print("\n最贵的10个国家:")
+        for i, (code, info) in enumerate(most_expensive_lpg, 1):
+            lpg = info['lpg']
+            print(f"{i:2d}. {info['country']:25s} {lpg['price_cny']:6.2f} CNY/L ({lpg['price']:.2f} {lpg['currency']}/L)")
+
+        prices = [info['lpg']['price_cny'] for _, info in lpg_data]
+        avg_price = sum(prices) / len(prices)
+        print(f"\n全球LPG平均价格: {avg_price:.2f} CNY/L")
         print(f"价格范围: {min(prices):.2f} - {max(prices):.2f} CNY/L")
 
 
