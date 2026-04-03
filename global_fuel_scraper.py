@@ -209,7 +209,7 @@ GLOBAL_COUNTRIES = {
 
 
 def fetch_country_prices(country_code: str, country_name: str) -> dict[str, Any]:
-    """获取单个国家的汽油和柴油价格"""
+    """获取单个国家的汽油、柴油和LPG价格"""
     results = {}
 
     # Fetch gasoline prices
@@ -220,15 +220,21 @@ def fetch_country_prices(country_code: str, country_name: str) -> dict[str, Any]
     diesel_url = f'https://www.globalpetrolprices.com/{country_code}/diesel_prices/'
     diesel_data = fetch_fuel_type(diesel_url, country_code, country_name, 'diesel')
 
+    # Fetch LPG prices
+    lpg_url = f'https://www.globalpetrolprices.com/{country_code}/lpg_prices/'
+    lpg_data = fetch_fuel_type(lpg_url, country_code, country_name, 'lpg')
+
     # Combine results
-    if gasoline_data or diesel_data:
+    if gasoline_data or diesel_data or lpg_data:
         results = {
             'country': country_name,
             'country_code': country_code,
             'gasoline': gasoline_data if gasoline_data else None,
             'diesel': diesel_data if diesel_data else None,
+            'lpg': lpg_data if lpg_data else None,
             'source_url_gasoline': gasoline_url,
-            'source_url_diesel': diesel_url
+            'source_url_diesel': diesel_url,
+            'source_url_lpg': lpg_url
         }
 
         fuel_types = []
@@ -236,6 +242,8 @@ def fetch_country_prices(country_code: str, country_name: str) -> dict[str, Any]
             fuel_types.append('gasoline')
         if diesel_data:
             fuel_types.append('diesel')
+        if lpg_data:
+            fuel_types.append('lpg')
 
         print(f"[{country_name}] 成功获取价格 ({', '.join(fuel_types)})")
         return results
