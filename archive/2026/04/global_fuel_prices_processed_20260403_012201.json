@@ -3244,18 +3244,6 @@
     "country_code": "Fiji",
     "source_url_gasoline": "https://www.globalpetrolprices.com/Fiji/gasoline_prices/",
     "source_url_diesel": "https://www.globalpetrolprices.com/Fiji/diesel_prices/",
-    "gasoline": {
-      "price": 1.31,
-      "currency": "USD",
-      "unit": "per liter",
-      "fuel_type": "gasoline",
-      "update_date": "2026-04-03",
-      "price_date": "30-Mar-2026",
-      "local_price": 2.93,
-      "local_currency": "FJD",
-      "price_cny": 9.02,
-      "price_cny_formatted": "9.02 CNY/L"
-    },
     "diesel": {
       "price": 1.29,
       "currency": "USD",
