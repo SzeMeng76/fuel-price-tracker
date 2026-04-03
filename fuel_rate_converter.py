@@ -92,7 +92,8 @@ def process_fuel_prices():
                 'country_code': data.get('country_code'),
                 'source_url_gasoline': data.get('source_url_gasoline'),
                 'source_url_diesel': data.get('source_url_diesel'),
-                'source_url_lpg': data.get('source_url_lpg')
+                'source_url_lpg': data.get('source_url_lpg'),
+                'source_url_electricity': data.get('source_url_electricity')
             }
 
             # 转换汽油价格
@@ -131,6 +132,40 @@ def process_fuel_prices():
                     'price_cny_formatted': f'{price_cny:.2f} CNY/L'
                 }
 
+            # 转换电价
+            electricity_data = data.get('electricity')
+            if electricity_data:
+                processed_electricity = {}
+
+                # 转换家庭电价
+                if 'households' in electricity_data:
+                    households = electricity_data['households']
+                    price = households.get('price', 0)
+                    currency = households.get('currency', 'USD')
+                    price_cny = convert_to_cny(price, currency, rates)
+
+                    processed_electricity['households'] = {
+                        **households,
+                        'price_cny': price_cny,
+                        'price_cny_formatted': f'{price_cny:.2f} CNY/kWh'
+                    }
+
+                # 转换商业电价
+                if 'business' in electricity_data:
+                    business = electricity_data['business']
+                    price = business.get('price', 0)
+                    currency = business.get('currency', 'USD')
+                    price_cny = convert_to_cny(price, currency, rates)
+
+                    processed_electricity['business'] = {
+                        **business,
+                        'price_cny': price_cny,
+                        'price_cny_formatted': f'{price_cny:.2f} CNY/kWh'
+                    }
+
+                if processed_electricity:
+                    processed_country['electricity'] = processed_electricity
+
             processed_data[country_code] = processed_country
 
         except Exception as e:
@@ -160,7 +195,7 @@ def process_fuel_prices():
 
 
 def generate_rankings(data: dict):
-    """生成价格排行榜（汽油、柴油和LPG）"""
+    """生成价格排行榜（汽油、柴油、LPG和电价）"""
     print("\n=== 全球燃油价格排行榜 (CNY/升) ===\n")
 
     # 汽油排行榜
@@ -231,6 +266,54 @@ def generate_rankings(data: dict):
         avg_price = sum(prices) / len(prices)
         print(f"\n全球LPG平均价格: {avg_price:.2f} CNY/L")
         print(f"价格范围: {min(prices):.2f} - {max(prices):.2f} CNY/L")
+
+    # 电价排行榜 - 家庭用电
+    households_data = [(code, info) for code, info in data.items()
+                       if info.get('electricity') and info['electricity'].get('households')
+                       and info['electricity']['households'].get('price_cny', 0) > 0]
+
+    if households_data:
+        print("\n\n⚡ 家庭电价排行榜:")
+        cheapest_households = sorted(households_data, key=lambda x: x[1]['electricity']['households']['price_cny'])[:10]
+        print("\n最便宜的10个国家:")
+        for i, (code, info) in enumerate(cheapest_households, 1):
+            elec = info['electricity']['households']
+            print(f"{i:2d}. {info['country']:25s} {elec['price_cny']:6.2f} CNY/kWh ({elec['price']:.3f} {elec['currency']}/kWh)")
+
+        most_expensive_households = sorted(households_data, key=lambda x: x[1]['electricity']['households']['price_cny'], reverse=True)[:10]
+        print("\n最贵的10个国家:")
+        for i, (code, info) in enumerate(most_expensive_households, 1):
+            elec = info['electricity']['households']
+            print(f"{i:2d}. {info['country']:25s} {elec['price_cny']:6.2f} CNY/kWh ({elec['price']:.3f} {elec['currency']}/kWh)")
+
+        prices = [info['electricity']['households']['price_cny'] for _, info in households_data]
+        avg_price = sum(prices) / len(prices)
+        print(f"\n全球家庭电价平均价格: {avg_price:.2f} CNY/kWh")
+        print(f"价格范围: {min(prices):.2f} - {max(prices):.2f} CNY/kWh")
+
+    # 电价排行榜 - 商业用电
+    business_data = [(code, info) for code, info in data.items()
+                     if info.get('electricity') and info['electricity'].get('business')
+                     and info['electricity']['business'].get('price_cny', 0) > 0]
+
+    if business_data:
+        print("\n\n🏢 商业电价排行榜:")
+        cheapest_business = sorted(business_data, key=lambda x: x[1]['electricity']['business']['price_cny'])[:10]
+        print("\n最便宜的10个国家:")
+        for i, (code, info) in enumerate(cheapest_business, 1):
+            elec = info['electricity']['business']
+            print(f"{i:2d}. {info['country']:25s} {elec['price_cny']:6.2f} CNY/kWh ({elec['price']:.3f} {elec['currency']}/kWh)")
+
+        most_expensive_business = sorted(business_data, key=lambda x: x[1]['electricity']['business']['price_cny'], reverse=True)[:10]
+        print("\n最贵的10个国家:")
+        for i, (code, info) in enumerate(most_expensive_business, 1):
+            elec = info['electricity']['business']
+            print(f"{i:2d}. {info['country']:25s} {elec['price_cny']:6.2f} CNY/kWh ({elec['price']:.3f} {elec['currency']}/kWh)")
+
+        prices = [info['electricity']['business']['price_cny'] for _, info in business_data]
+        avg_price = sum(prices) / len(prices)
+        print(f"\n全球商业电价平均价格: {avg_price:.2f} CNY/kWh")
+        print(f"价格范围: {min(prices):.2f} - {max(prices):.2f} CNY/kWh")
 
 
 if __name__ == '__main__':

@@ -209,7 +209,7 @@ GLOBAL_COUNTRIES = {
 
 
 def fetch_country_prices(country_code: str, country_name: str) -> dict[str, Any]:
-    """获取单个国家的汽油、柴油和LPG价格"""
+    """获取单个国家的汽油、柴油、LPG和电价"""
     results = {}
 
     # Fetch gasoline prices
@@ -224,17 +224,23 @@ def fetch_country_prices(country_code: str, country_name: str) -> dict[str, Any]
     lpg_url = f'https://www.globalpetrolprices.com/{country_code}/lpg_prices/'
     lpg_data = fetch_fuel_type(lpg_url, country_code, country_name, 'lpg')
 
+    # Fetch electricity prices from main country page
+    electricity_url = f'https://www.globalpetrolprices.com/{country_code}/'
+    electricity_data = fetch_electricity_prices(electricity_url, country_code, country_name)
+
     # Combine results
-    if gasoline_data or diesel_data or lpg_data:
+    if gasoline_data or diesel_data or lpg_data or electricity_data:
         results = {
             'country': country_name,
             'country_code': country_code,
             'gasoline': gasoline_data if gasoline_data else None,
             'diesel': diesel_data if diesel_data else None,
             'lpg': lpg_data if lpg_data else None,
+            'electricity': electricity_data if electricity_data else None,
             'source_url_gasoline': gasoline_url,
             'source_url_diesel': diesel_url,
-            'source_url_lpg': lpg_url
+            'source_url_lpg': lpg_url,
+            'source_url_electricity': electricity_url
         }
 
         fuel_types = []
@@ -244,6 +250,8 @@ def fetch_country_prices(country_code: str, country_name: str) -> dict[str, Any]
             fuel_types.append('diesel')
         if lpg_data:
             fuel_types.append('lpg')
+        if electricity_data:
+            fuel_types.append('electricity')
 
         print(f"[{country_name}] 成功获取价格 ({', '.join(fuel_types)})")
         return results
@@ -369,6 +377,70 @@ def extract_price_from_page(soup: BeautifulSoup, country_code: str, country_name
                 }
 
         return None
+
+    except Exception as e:
+        return None
+
+
+def fetch_electricity_prices(url: str, country_code: str, country_name: str) -> dict[str, Any]:
+    """获取单个国家的电价（家庭和商业）"""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
+
+    try:
+        response = requests.get(url, headers=headers, timeout=15)
+        if response.status_code != 200:
+            return None
+
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        # Find electricity price table
+        electricity_data = {}
+
+        # Look for "Electricity prices per kWh" table
+        tables = soup.find_all('table')
+        for table in tables:
+            # Check if this is the electricity table
+            title_bar = table.find('td', class_='tableTitleBar')
+            if title_bar and 'Electricity' in title_bar.text:
+                rows = table.find_all('tr')
+                for row in rows:
+                    th = row.find('th', class_='th')
+                    if th:
+                        category = th.text.strip()
+                        tds = row.find_all('td', class_='value')
+
+                        if len(tds) >= 3 and category in ['Households', 'Business']:
+                            try:
+                                date = tds[0].text.strip()
+                                local_price = parse_price(tds[1].text.strip())
+                                usd_price = parse_price(tds[2].text.strip())
+
+                                # Extract local currency from table header
+                                local_currency = None
+                                thead = table.find('thead')
+                                if thead:
+                                    header_cells = thead.find_all('td', class_='value')
+                                    if len(header_cells) >= 2:
+                                        # First value cell after "Date" should be the local currency
+                                        local_currency = header_cells[1].text.strip() if len(header_cells) > 1 else None
+
+                                key = 'households' if category == 'Households' else 'business'
+                                electricity_data[key] = {
+                                    'price': usd_price,
+                                    'currency': 'USD',
+                                    'unit': 'per kWh',
+                                    'category': category.lower(),
+                                    'update_date': time.strftime('%Y-%m-%d'),
+                                    'price_date': date,
+                                    'local_price': local_price,
+                                    'local_currency': local_currency
+                                }
+                            except Exception as e:
+                                continue
+
+        return electricity_data if electricity_data else None
 
     except Exception as e:
         return None
