@@ -1,4 +1,3 @@
-# Fuel Price Changes - 2026-06-09
+# Fuel Price Changes - 2026-06-10
 
-## China Price Changes
-
+No price changes detected.
