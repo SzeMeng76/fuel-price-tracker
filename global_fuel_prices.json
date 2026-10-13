@@ -7,7 +7,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -17,7 +17,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -27,7 +27,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -38,7 +38,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.203,
         "local_currency": "USD"
@@ -48,7 +48,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.151,
         "local_currency": "USD"
@@ -67,7 +67,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.06,
       "local_currency": "CAD"
@@ -77,7 +77,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.59,
       "local_currency": "CAD"
@@ -87,7 +87,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.27,
       "local_currency": "CAD"
@@ -98,7 +98,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.166,
         "local_currency": "CAD"
@@ -108,7 +108,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.167,
         "local_currency": "CAD"
@@ -127,7 +127,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 28.37,
       "local_currency": "MXN"
@@ -137,7 +137,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 26.84,
       "local_currency": "MXN"
@@ -147,7 +147,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -158,7 +158,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.1,
         "local_currency": "MXN"
@@ -168,7 +168,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 3.714,
         "local_currency": "MXN"
@@ -187,7 +187,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 9.84,
       "local_currency": "GTQ"
@@ -197,7 +197,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 11.3,
       "local_currency": "GTQ"
@@ -207,7 +207,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -218,7 +218,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.508,
         "local_currency": "GTQ"
@@ -228,7 +228,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.508,
         "local_currency": "GTQ"
@@ -247,7 +247,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 40.7,
       "local_currency": "HNL"
@@ -257,7 +257,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 40.0,
       "local_currency": "HNL"
@@ -267,7 +267,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 13.68,
       "local_currency": "HNL"
@@ -278,7 +278,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 5.178,
         "local_currency": "HNL"
@@ -288,7 +288,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 5.205,
         "local_currency": "HNL"
@@ -307,7 +307,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -317,7 +317,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -327,7 +327,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -338,7 +338,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.272,
         "local_currency": "USD"
@@ -348,7 +348,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.24,
         "local_currency": "USD"
@@ -367,7 +367,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 49.0,
       "local_currency": "NIO"
@@ -377,7 +377,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 43.22,
       "local_currency": "NIO"
@@ -387,7 +387,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -398,7 +398,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 6.473,
         "local_currency": "NIO"
@@ -408,7 +408,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 7.77,
         "local_currency": "NIO"
@@ -427,7 +427,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 764.0,
       "local_currency": "CRC"
@@ -437,7 +437,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 785.0,
       "local_currency": "CRC"
@@ -447,7 +447,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -458,7 +458,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 85.909,
         "local_currency": "CRC"
@@ -468,7 +468,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 107.96,
         "local_currency": "CRC"
@@ -487,7 +487,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.42,
       "local_currency": "PAB"
@@ -497,7 +497,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.51,
       "local_currency": "PAB"
@@ -507,7 +507,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -518,7 +518,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.175,
         "local_currency": "PAB"
@@ -528,7 +528,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.197,
         "local_currency": "PAB"
@@ -551,7 +551,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.72,
         "local_currency": "CUP"
@@ -570,7 +570,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 258.62,
       "local_currency": "JMD"
@@ -580,7 +580,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 284.27,
       "local_currency": "JMD"
@@ -590,7 +590,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -601,7 +601,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 47.001,
         "local_currency": "JMD"
@@ -611,7 +611,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 38.79,
         "local_currency": "JMD"
@@ -630,18 +630,27 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 93.28,
       "local_currency": "DOP"
     },
-    "diesel": null,
+    "diesel": {
+      "price": 1.19,
+      "currency": "USD",
+      "unit": "per liter",
+      "fuel_type": "diesel",
+      "update_date": "2026-10-13",
+      "price_date": "05-Oct-2026",
+      "local_price": 71.54,
+      "local_currency": "DOP"
+    },
     "lpg": {
       "price": 0.59,
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 35.72,
       "local_currency": "DOP"
@@ -652,7 +661,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 6.809,
         "local_currency": "DOP"
@@ -662,7 +671,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 10.13,
         "local_currency": "DOP"
@@ -685,7 +694,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.42,
         "local_currency": "TTD"
@@ -695,7 +704,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.359,
         "local_currency": "TTD"
@@ -714,7 +723,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 6.55,
       "local_currency": "BRL"
@@ -724,7 +733,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 6.9,
       "local_currency": "BRL"
@@ -734,7 +743,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -745,7 +754,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.943,
         "local_currency": "BRL"
@@ -755,7 +764,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.757,
         "local_currency": "BRL"
@@ -774,7 +783,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2162.53,
       "local_currency": "ARS"
@@ -784,7 +793,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2435.57,
       "local_currency": "ARS"
@@ -794,7 +803,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -805,7 +814,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 173.46,
         "local_currency": "ARS"
@@ -815,7 +824,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 148.32,
         "local_currency": "ARS"
@@ -834,7 +843,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1484.33,
       "local_currency": "CLP"
@@ -844,7 +853,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1430.33,
       "local_currency": "CLP"
@@ -854,7 +863,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 682.67,
       "local_currency": "CLP"
@@ -865,7 +874,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 253.904,
         "local_currency": "CLP"
@@ -875,7 +884,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 193.96,
         "local_currency": "CLP"
@@ -894,7 +903,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 4196.64,
       "local_currency": "COP"
@@ -904,7 +913,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2990.43,
       "local_currency": "COP"
@@ -914,7 +923,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -925,7 +934,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 822.139,
         "local_currency": "COP"
@@ -935,7 +944,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 787.85,
         "local_currency": "COP"
@@ -954,7 +963,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 5.78,
       "local_currency": "PEN"
@@ -964,7 +973,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 6.59,
       "local_currency": "PEN"
@@ -974,7 +983,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.15,
       "local_currency": "PEN"
@@ -985,7 +994,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.635,
         "local_currency": "PEN"
@@ -995,7 +1004,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.56,
         "local_currency": "PEN"
@@ -1014,7 +1023,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -1024,7 +1033,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -1034,7 +1043,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -1045,7 +1054,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.097,
         "local_currency": "USD"
@@ -1055,7 +1064,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.095,
         "local_currency": "USD"
@@ -1074,7 +1083,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 6.96,
       "local_currency": "BOB"
@@ -1084,7 +1093,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 17.95,
       "local_currency": "BOB"
@@ -1094,7 +1103,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -1113,7 +1122,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 7490.0,
       "local_currency": "PYG"
@@ -1123,7 +1132,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 8785.0,
       "local_currency": "PYG"
@@ -1133,7 +1142,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 4240.0,
       "local_currency": "PYG"
@@ -1144,7 +1153,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 401.995,
         "local_currency": "PYG"
@@ -1154,7 +1163,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 334.798,
         "local_currency": "PYG"
@@ -1173,7 +1182,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 90.45,
       "local_currency": "UYU"
@@ -1183,7 +1192,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 62.79,
       "local_currency": "UYU"
@@ -1193,7 +1202,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -1204,7 +1213,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 10.673,
         "local_currency": "UYU"
@@ -1214,7 +1223,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 5.39,
         "local_currency": "UYU"
@@ -1233,7 +1242,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.75,
       "local_currency": "GBP"
@@ -1243,7 +1252,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.0,
       "local_currency": "GBP"
@@ -1253,7 +1262,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.01,
       "local_currency": "GBP"
@@ -1264,7 +1273,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.331,
         "local_currency": "GBP"
@@ -1274,7 +1283,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.353,
         "local_currency": "GBP"
@@ -1293,7 +1302,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.97,
       "local_currency": "EUR"
@@ -1303,7 +1312,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.12,
       "local_currency": "EUR"
@@ -1313,7 +1322,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -1324,7 +1333,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.399,
         "local_currency": "EUR"
@@ -1343,7 +1352,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.14,
       "local_currency": "EUR"
@@ -1353,7 +1362,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.36,
       "local_currency": "EUR"
@@ -1363,7 +1372,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.03,
       "local_currency": "EUR"
@@ -1374,7 +1383,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.232,
         "local_currency": "EUR"
@@ -1384,7 +1393,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.146,
         "local_currency": "EUR"
@@ -1403,7 +1412,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.14,
       "local_currency": "EUR"
@@ -1413,7 +1422,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.24,
       "local_currency": "EUR"
@@ -1423,7 +1432,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.11,
       "local_currency": "EUR"
@@ -1434,7 +1443,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.362,
         "local_currency": "EUR"
@@ -1444,7 +1453,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.252,
         "local_currency": "EUR"
@@ -1463,7 +1472,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.03,
       "local_currency": "EUR"
@@ -1473,7 +1482,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.23,
       "local_currency": "EUR"
@@ -1483,7 +1492,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.79,
       "local_currency": "EUR"
@@ -1494,7 +1503,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.333,
         "local_currency": "EUR"
@@ -1504,7 +1513,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.316,
         "local_currency": "EUR"
@@ -1523,7 +1532,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.79,
       "local_currency": "EUR"
@@ -1533,7 +1542,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.9,
       "local_currency": "EUR"
@@ -1543,7 +1552,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.1,
       "local_currency": "EUR"
@@ -1554,7 +1563,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.243,
         "local_currency": "EUR"
@@ -1564,7 +1573,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.093,
         "local_currency": "EUR"
@@ -1583,7 +1592,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.08,
       "local_currency": "EUR"
@@ -1593,7 +1602,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.16,
       "local_currency": "EUR"
@@ -1603,7 +1612,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.92,
       "local_currency": "EUR"
@@ -1614,7 +1623,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.213,
         "local_currency": "EUR"
@@ -1624,7 +1633,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.148,
         "local_currency": "EUR"
@@ -1643,7 +1652,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.47,
       "local_currency": "EUR"
@@ -1653,7 +1662,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.51,
       "local_currency": "EUR"
@@ -1663,7 +1672,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.96,
       "local_currency": "EUR"
@@ -1674,7 +1683,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.237,
         "local_currency": "EUR"
@@ -1684,7 +1693,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.169,
         "local_currency": "EUR"
@@ -1703,7 +1712,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.99,
       "local_currency": "EUR"
@@ -1713,7 +1722,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.31,
       "local_currency": "EUR"
@@ -1723,7 +1732,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.01,
       "local_currency": "EUR"
@@ -1734,7 +1743,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.347,
         "local_currency": "EUR"
@@ -1744,7 +1753,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.214,
         "local_currency": "EUR"
@@ -1763,7 +1772,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.84,
       "local_currency": "EUR"
@@ -1773,7 +1782,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.0,
       "local_currency": "EUR"
@@ -1783,7 +1792,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.87,
       "local_currency": "EUR"
@@ -1794,7 +1803,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.251,
         "local_currency": "EUR"
@@ -1804,7 +1813,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.165,
         "local_currency": "EUR"
@@ -1823,7 +1832,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.84,
       "local_currency": "EUR"
@@ -1833,7 +1842,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.14,
       "local_currency": "EUR"
@@ -1843,7 +1852,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -1854,7 +1863,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.328,
         "local_currency": "EUR"
@@ -1864,7 +1873,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.24,
         "local_currency": "EUR"
@@ -1883,7 +1892,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.13,
       "local_currency": "CHF"
@@ -1893,7 +1902,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.46,
       "local_currency": "CHF"
@@ -1903,7 +1912,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.2,
       "local_currency": "CHF"
@@ -1914,7 +1923,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.292,
         "local_currency": "CHF"
@@ -1924,7 +1933,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.221,
         "local_currency": "CHF"
@@ -1943,7 +1952,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 18.81,
       "local_currency": "SEK"
@@ -1953,7 +1962,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 22.42,
       "local_currency": "SEK"
@@ -1963,7 +1972,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -1974,7 +1983,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.72,
         "local_currency": "SEK"
@@ -1993,7 +2002,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 29.79,
       "local_currency": "NOK"
@@ -2003,7 +2012,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 28.14,
       "local_currency": "NOK"
@@ -2013,7 +2022,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -2024,7 +2033,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.972,
         "local_currency": "NOK"
@@ -2034,7 +2043,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.729,
         "local_currency": "NOK"
@@ -2053,7 +2062,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 18.99,
       "local_currency": "DKK"
@@ -2063,7 +2072,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 19.79,
       "local_currency": "DKK"
@@ -2073,7 +2082,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -2084,7 +2093,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.062,
         "local_currency": "DKK"
@@ -2094,7 +2103,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.294,
         "local_currency": "DKK"
@@ -2113,7 +2122,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.33,
       "local_currency": "EUR"
@@ -2123,7 +2132,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.51,
       "local_currency": "EUR"
@@ -2133,7 +2142,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -2144,7 +2153,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.142,
         "local_currency": "EUR"
@@ -2154,7 +2163,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.099,
         "local_currency": "EUR"
@@ -2173,7 +2182,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 273.91,
       "local_currency": "ISK"
@@ -2183,7 +2192,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 316.57,
       "local_currency": "ISK"
@@ -2193,7 +2202,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -2204,7 +2213,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 25.223,
         "local_currency": "ISK"
@@ -2214,7 +2223,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 12.81,
         "local_currency": "ISK"
@@ -2233,7 +2242,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 8.1,
       "local_currency": "PLN"
@@ -2243,7 +2252,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 9.01,
       "local_currency": "PLN"
@@ -2253,7 +2262,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3.26,
       "local_currency": "PLN"
@@ -2264,7 +2273,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.914,
         "local_currency": "PLN"
@@ -2274,7 +2283,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.672,
         "local_currency": "PLN"
@@ -2293,7 +2302,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 45.87,
       "local_currency": "CZK"
@@ -2303,7 +2312,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 50.65,
       "local_currency": "CZK"
@@ -2313,7 +2322,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 21.62,
       "local_currency": "CZK"
@@ -2324,7 +2333,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 7.074,
         "local_currency": "CZK"
@@ -2334,7 +2343,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 4.55,
         "local_currency": "CZK"
@@ -2353,7 +2362,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.85,
       "local_currency": "EUR"
@@ -2363,7 +2372,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.98,
       "local_currency": "EUR"
@@ -2373,7 +2382,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.8,
       "local_currency": "EUR"
@@ -2384,7 +2393,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.202,
         "local_currency": "EUR"
@@ -2394,7 +2403,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.154,
         "local_currency": "EUR"
@@ -2413,7 +2422,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 635.0,
       "local_currency": "HUF"
@@ -2423,7 +2432,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 709.0,
       "local_currency": "HUF"
@@ -2433,7 +2442,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 354.6,
       "local_currency": "HUF"
@@ -2444,7 +2453,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 38.947,
         "local_currency": "HUF"
@@ -2454,7 +2463,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 112.882,
         "local_currency": "HUF"
@@ -2473,7 +2482,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 10.14,
       "local_currency": "RON"
@@ -2483,7 +2492,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 10.94,
       "local_currency": "RON"
@@ -2493,7 +2502,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 4.71,
       "local_currency": "RON"
@@ -2504,7 +2513,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.543,
         "local_currency": "RON"
@@ -2514,7 +2523,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.202,
         "local_currency": "RON"
@@ -2533,7 +2542,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.67,
       "local_currency": "EUR"
@@ -2543,7 +2552,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.92,
       "local_currency": "EUR"
@@ -2553,7 +2562,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.67,
       "local_currency": "EUR"
@@ -2564,7 +2573,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.15,
         "local_currency": "EUR"
@@ -2574,7 +2583,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.174,
         "local_currency": "EUR"
@@ -2593,7 +2602,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.81,
       "local_currency": "EUR"
@@ -2603,7 +2612,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.04,
       "local_currency": "EUR"
@@ -2613,7 +2622,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.82,
       "local_currency": "EUR"
@@ -2624,7 +2633,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.188,
         "local_currency": "EUR"
@@ -2634,7 +2643,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.157,
         "local_currency": "EUR"
@@ -2653,7 +2662,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.74,
       "local_currency": "EUR"
@@ -2663,7 +2672,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.88,
       "local_currency": "EUR"
@@ -2673,7 +2682,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.98,
       "local_currency": "EUR"
@@ -2684,7 +2693,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.198,
         "local_currency": "EUR"
@@ -2694,7 +2703,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.162,
         "local_currency": "EUR"
@@ -2713,7 +2722,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 207.0,
       "local_currency": "RSD"
@@ -2723,7 +2732,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 236.0,
       "local_currency": "RSD"
@@ -2733,7 +2742,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 107.9,
       "local_currency": "RSD"
@@ -2744,7 +2753,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 14.0,
         "local_currency": "RSD"
@@ -2754,7 +2763,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 15.16,
         "local_currency": "RSD"
@@ -2773,7 +2782,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3.4,
       "local_currency": "BAM"
@@ -2783,7 +2792,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3.76,
       "local_currency": "BAM"
@@ -2793,7 +2802,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.41,
       "local_currency": "BAM"
@@ -2804,7 +2813,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.225,
         "local_currency": "BAM"
@@ -2814,7 +2823,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.228,
         "local_currency": "BAM"
@@ -2837,7 +2846,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 10.2,
         "local_currency": "ALL"
@@ -2847,7 +2856,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 12.65,
         "local_currency": "ALL"
@@ -2866,7 +2875,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.94,
       "local_currency": "EUR"
@@ -2876,7 +2885,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.14,
       "local_currency": "EUR"
@@ -2886,7 +2895,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.07,
       "local_currency": "EUR"
@@ -2897,7 +2906,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.278,
         "local_currency": "EUR"
@@ -2907,7 +2916,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.157,
         "local_currency": "EUR"
@@ -2926,7 +2935,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.93,
       "local_currency": "EUR"
@@ -2936,7 +2945,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.09,
       "local_currency": "EUR"
@@ -2946,7 +2955,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.0,
       "local_currency": "EUR"
@@ -2957,7 +2966,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.254,
         "local_currency": "EUR"
@@ -2967,7 +2976,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.191,
         "local_currency": "EUR"
@@ -2986,7 +2995,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.82,
       "local_currency": "EUR"
@@ -2996,7 +3005,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.14,
       "local_currency": "EUR"
@@ -3006,7 +3015,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.9,
       "local_currency": "EUR"
@@ -3017,7 +3026,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.306,
         "local_currency": "EUR"
@@ -3027,7 +3036,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.251,
         "local_currency": "EUR"
@@ -3046,7 +3055,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 74.76,
       "local_currency": "RUB"
@@ -3056,7 +3065,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 81.16,
       "local_currency": "RUB"
@@ -3066,7 +3075,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 43.61,
       "local_currency": "RUB"
@@ -3077,7 +3086,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 6.579,
         "local_currency": "RUB"
@@ -3087,7 +3096,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 10.225,
         "local_currency": "RUB"
@@ -3106,7 +3115,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 90.71,
       "local_currency": "UAH"
@@ -3116,7 +3125,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 100.02,
       "local_currency": "UAH"
@@ -3126,7 +3135,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 44.9,
       "local_currency": "UAH"
@@ -3137,7 +3146,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 4.32,
         "local_currency": "UAH"
@@ -3147,7 +3156,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 10.247,
         "local_currency": "UAH"
@@ -3166,7 +3175,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.72,
       "local_currency": "BYN"
@@ -3176,7 +3185,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.72,
       "local_currency": "BYN"
@@ -3186,7 +3195,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.34,
       "local_currency": "BYN"
@@ -3197,7 +3206,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.284,
         "local_currency": "BYN"
@@ -3207,7 +3216,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.368,
         "local_currency": "BYN"
@@ -3226,7 +3235,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 34.22,
       "local_currency": "MDL"
@@ -3236,7 +3245,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 35.42,
       "local_currency": "MDL"
@@ -3246,7 +3255,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 15.55,
       "local_currency": "MDL"
@@ -3257,7 +3266,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 3.59,
         "local_currency": "MDL"
@@ -3267,7 +3276,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 3.59,
         "local_currency": "MDL"
@@ -3286,7 +3295,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 4.26,
       "local_currency": "GEL"
@@ -3296,7 +3305,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 4.92,
       "local_currency": "GEL"
@@ -3306,7 +3315,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -3317,7 +3326,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.169,
         "local_currency": "GEL"
@@ -3327,7 +3336,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.273,
         "local_currency": "GEL"
@@ -3346,7 +3355,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 630.0,
       "local_currency": "AMD"
@@ -3356,7 +3365,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 710.0,
       "local_currency": "AMD"
@@ -3366,7 +3375,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 240.0,
       "local_currency": "AMD"
@@ -3377,7 +3386,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 43.48,
         "local_currency": "AMD"
@@ -3387,7 +3396,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 42.48,
         "local_currency": "AMD"
@@ -3410,7 +3419,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.084,
         "local_currency": "AZN"
@@ -3420,7 +3429,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.106,
         "local_currency": "AZN"
@@ -3443,7 +3452,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 31.067,
         "local_currency": "KZT"
@@ -3453,7 +3462,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 43.242,
         "local_currency": "KZT"
@@ -3476,7 +3485,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 590.0,
         "local_currency": "UZS"
@@ -3486,7 +3495,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 900.0,
         "local_currency": "UZS"
@@ -3505,7 +3514,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 9.24,
       "local_currency": "CNY"
@@ -3515,7 +3524,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 8.3,
       "local_currency": "CNY"
@@ -3525,7 +3534,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -3536,7 +3545,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.532,
         "local_currency": "CNY"
@@ -3546,7 +3555,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.791,
         "local_currency": "CNY"
@@ -3565,7 +3574,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 170.2,
       "local_currency": "JPY"
@@ -3575,7 +3584,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 159.5,
       "local_currency": "JPY"
@@ -3585,7 +3594,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -3596,7 +3605,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 32.795,
         "local_currency": "JPY"
@@ -3606,7 +3615,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 28.26,
         "local_currency": "JPY"
@@ -3625,7 +3634,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1857.64,
       "local_currency": "KRW"
@@ -3635,7 +3644,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1843.31,
       "local_currency": "KRW"
@@ -3645,7 +3654,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1104.73,
       "local_currency": "KRW"
@@ -3656,7 +3665,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 170.844,
         "local_currency": "KRW"
@@ -3666,7 +3675,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 173.869,
         "local_currency": "KRW"
@@ -3685,7 +3694,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 34.62,
       "local_currency": "HKD"
@@ -3695,7 +3704,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 37.83,
       "local_currency": "HKD"
@@ -3705,7 +3714,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -3716,7 +3725,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.375,
         "local_currency": "HKD"
@@ -3726,7 +3735,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.325,
         "local_currency": "HKD"
@@ -3745,7 +3754,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 32.7,
       "local_currency": "TWD"
@@ -3755,7 +3764,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 29.9,
       "local_currency": "TWD"
@@ -3765,7 +3774,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 16.3,
       "local_currency": "TWD"
@@ -3776,7 +3785,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 3.227,
         "local_currency": "TWD"
@@ -3786,7 +3795,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 6.77,
         "local_currency": "TWD"
@@ -3805,7 +3814,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3.15,
       "local_currency": "SGD"
@@ -3815,7 +3824,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3.62,
       "local_currency": "SGD"
@@ -3825,7 +3834,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -3836,7 +3845,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.291,
         "local_currency": "SGD"
@@ -3846,7 +3855,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.271,
         "local_currency": "SGD"
@@ -3865,7 +3874,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 4.52,
       "local_currency": "MYR"
@@ -3875,7 +3884,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 5.27,
       "local_currency": "MYR"
@@ -3885,7 +3894,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -3896,7 +3905,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.199,
         "local_currency": "MYR"
@@ -3906,7 +3915,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.473,
         "local_currency": "MYR"
@@ -3925,7 +3934,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 49.76,
       "local_currency": "THB"
@@ -3935,7 +3944,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 42.19,
       "local_currency": "THB"
@@ -3945,7 +3954,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -3956,7 +3965,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 3.972,
         "local_currency": "THB"
@@ -3966,7 +3975,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 3.979,
         "local_currency": "THB"
@@ -3985,7 +3994,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 27955.0,
       "local_currency": "VND"
@@ -3995,7 +4004,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 30005.0,
       "local_currency": "VND"
@@ -4005,7 +4014,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4016,7 +4025,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2050.0,
         "local_currency": "VND"
@@ -4026,7 +4035,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2088.9,
         "local_currency": "VND"
@@ -4045,7 +4054,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 94.1,
       "local_currency": "PHP"
@@ -4055,7 +4064,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 95.7,
       "local_currency": "PHP"
@@ -4065,7 +4074,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 43.73,
       "local_currency": "PHP"
@@ -4076,7 +4085,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 12.951,
         "local_currency": "PHP"
@@ -4086,7 +4095,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 9.596,
         "local_currency": "PHP"
@@ -4105,7 +4114,7 @@
       "currency": "IDR",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 19150.0,
       "local_currency": "IDR"
@@ -4115,7 +4124,7 @@
       "currency": "IDR",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 25420.0,
       "local_currency": "IDR"
@@ -4125,7 +4134,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4136,7 +4145,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1444.7,
         "local_currency": "IDR"
@@ -4146,7 +4155,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1114.74,
         "local_currency": "IDR"
@@ -4165,7 +4174,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 6250.0,
       "local_currency": "KHR"
@@ -4175,7 +4184,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 5650.0,
       "local_currency": "KHR"
@@ -4185,7 +4194,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4196,7 +4205,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 610.0,
         "local_currency": "KHR"
@@ -4206,7 +4215,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 468.0,
         "local_currency": "KHR"
@@ -4225,7 +4234,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 43380.0,
       "local_currency": "LAK"
@@ -4235,7 +4244,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 36830.0,
       "local_currency": "LAK"
@@ -4245,7 +4254,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4256,7 +4265,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 876.83,
         "local_currency": "LAK"
@@ -4275,7 +4284,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 108.65,
       "local_currency": "INR"
@@ -4285,7 +4294,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 98.1,
       "local_currency": "INR"
@@ -4295,7 +4304,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 65.31,
       "local_currency": "INR"
@@ -4306,7 +4315,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 6.86,
         "local_currency": "INR"
@@ -4316,7 +4325,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 10.28,
         "local_currency": "INR"
@@ -4335,7 +4344,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 393.64,
       "local_currency": "PKR"
@@ -4345,7 +4354,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 397.76,
       "local_currency": "PKR"
@@ -4355,7 +4364,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4366,7 +4375,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 15.91,
         "local_currency": "PKR"
@@ -4376,7 +4385,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 39.68,
         "local_currency": "PKR"
@@ -4395,7 +4404,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 165.0,
       "local_currency": "BDT"
@@ -4405,7 +4414,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 135.0,
       "local_currency": "BDT"
@@ -4415,7 +4424,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4426,7 +4435,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 7.742,
         "local_currency": "BDT"
@@ -4436,7 +4445,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 12.39,
         "local_currency": "BDT"
@@ -4455,7 +4464,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 475.0,
       "local_currency": "LKR"
@@ -4465,7 +4474,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 528.0,
       "local_currency": "LKR"
@@ -4475,7 +4484,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4486,7 +4495,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 26.257,
         "local_currency": "LKR"
@@ -4496,7 +4505,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 18.89,
         "local_currency": "LKR"
@@ -4515,7 +4524,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 200.0,
       "local_currency": "NPR"
@@ -4525,7 +4534,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 200.0,
       "local_currency": "NPR"
@@ -4535,7 +4544,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4546,7 +4555,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 5.786,
         "local_currency": "NPR"
@@ -4556,7 +4565,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 9.21,
         "local_currency": "NPR"
@@ -4579,7 +4588,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.28,
         "local_currency": "INR"
@@ -4589,7 +4598,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.63,
         "local_currency": "INR"
@@ -4612,7 +4621,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.4,
         "local_currency": "MVR"
@@ -4631,7 +4640,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 84.64,
       "local_currency": "TRY"
@@ -4641,7 +4650,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 90.12,
       "local_currency": "TRY"
@@ -4651,7 +4660,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 36.65,
       "local_currency": "TRY"
@@ -4662,7 +4671,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.8,
         "local_currency": "TRY"
@@ -4672,7 +4681,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 4.77,
         "local_currency": "TRY"
@@ -4691,7 +4700,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.33,
       "local_currency": "SAR"
@@ -4701,7 +4710,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.79,
       "local_currency": "SAR"
@@ -4711,7 +4720,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.09,
       "local_currency": "SAR"
@@ -4722,7 +4731,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.2,
         "local_currency": "SAR"
@@ -4732,7 +4741,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.277,
         "local_currency": "SAR"
@@ -4751,7 +4760,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 4.28,
       "local_currency": "AED"
@@ -4761,7 +4770,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 4.8,
       "local_currency": "AED"
@@ -4771,7 +4780,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4782,7 +4791,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.293,
         "local_currency": "AED"
@@ -4792,7 +4801,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.405,
         "local_currency": "AED"
@@ -4811,7 +4820,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.1,
       "local_currency": "QAR"
@@ -4821,7 +4830,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.05,
       "local_currency": "QAR"
@@ -4831,7 +4840,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4842,7 +4851,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.115,
         "local_currency": "QAR"
@@ -4852,7 +4861,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.13,
         "local_currency": "QAR"
@@ -4871,7 +4880,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.11,
       "local_currency": "KWD"
@@ -4881,7 +4890,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.12,
       "local_currency": "KWD"
@@ -4891,7 +4900,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4902,7 +4911,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.014,
         "local_currency": "KWD"
@@ -4912,7 +4921,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.025,
         "local_currency": "KWD"
@@ -4931,7 +4940,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.25,
       "local_currency": "BHD"
@@ -4941,7 +4950,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.23,
       "local_currency": "BHD"
@@ -4951,7 +4960,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -4962,7 +4971,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.019,
         "local_currency": "BHD"
@@ -4972,7 +4981,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.032,
         "local_currency": "BHD"
@@ -4991,7 +5000,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.24,
       "local_currency": "OMR"
@@ -5001,7 +5010,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.26,
       "local_currency": "OMR"
@@ -5011,7 +5020,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5022,7 +5031,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.014,
         "local_currency": "OMR"
@@ -5032,7 +5041,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.057,
         "local_currency": "OMR"
@@ -5055,7 +5064,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 19.375,
         "local_currency": "IQD"
@@ -5065,7 +5074,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 60.0,
         "local_currency": "IQD"
@@ -5084,7 +5093,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.36,
       "local_currency": "JOD"
@@ -5094,7 +5103,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.9,
       "local_currency": "JOD"
@@ -5104,7 +5113,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5115,7 +5124,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.064,
         "local_currency": "JOD"
@@ -5125,7 +5134,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.12,
         "local_currency": "JOD"
@@ -5144,7 +5153,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 141250.0,
       "local_currency": "LBP"
@@ -5154,7 +5163,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 134600.0,
       "local_currency": "LBP"
@@ -5164,7 +5173,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 69150.0,
       "local_currency": "LBP"
@@ -5183,7 +5192,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 8.03,
       "local_currency": "ILS"
@@ -5193,7 +5202,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 7.63,
       "local_currency": "ILS"
@@ -5203,7 +5212,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3.9,
       "local_currency": "ILS"
@@ -5214,7 +5223,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.666,
         "local_currency": "ILS"
@@ -5224,7 +5233,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.373,
         "local_currency": "ILS"
@@ -5243,7 +5252,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1.75,
       "local_currency": "EUR"
@@ -5253,7 +5262,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.03,
       "local_currency": "EUR"
@@ -5263,7 +5272,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5274,7 +5283,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.292,
         "local_currency": "EUR"
@@ -5284,7 +5293,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.252,
         "local_currency": "EUR"
@@ -5303,7 +5312,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 24.0,
       "local_currency": "EGP"
@@ -5313,7 +5322,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 20.5,
       "local_currency": "EGP"
@@ -5323,7 +5332,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5334,7 +5343,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.07,
         "local_currency": "EGP"
@@ -5344,7 +5353,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.94,
         "local_currency": "EGP"
@@ -5363,7 +5372,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.53,
       "local_currency": "TND"
@@ -5373,7 +5382,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.21,
       "local_currency": "TND"
@@ -5383,7 +5392,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5394,7 +5403,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.199,
         "local_currency": "TND"
@@ -5404,7 +5413,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.352,
         "local_currency": "TND"
@@ -5423,7 +5432,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 47.0,
       "local_currency": "DZD"
@@ -5433,7 +5442,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 31.0,
       "local_currency": "DZD"
@@ -5443,7 +5452,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 12.0,
       "local_currency": "DZD"
@@ -5454,7 +5463,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 5.651,
         "local_currency": "DZD"
@@ -5464,7 +5473,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 4.68,
         "local_currency": "DZD"
@@ -5483,7 +5492,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 15.18,
       "local_currency": "MAD"
@@ -5493,7 +5502,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 15.3,
       "local_currency": "MAD"
@@ -5503,7 +5512,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5514,7 +5523,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.175,
         "local_currency": "MAD"
@@ -5524,7 +5533,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.072,
         "local_currency": "MAD"
@@ -5547,7 +5556,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 40.0,
         "local_currency": "SDG"
@@ -5557,7 +5566,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 50.0,
         "local_currency": "SDG"
@@ -5576,7 +5585,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1304.25,
       "local_currency": "NGN"
@@ -5586,7 +5595,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1715.5,
       "local_currency": "NGN"
@@ -5596,7 +5605,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 1152.5,
       "local_currency": "NGN"
@@ -5607,7 +5616,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 50.823,
         "local_currency": "NGN"
@@ -5617,7 +5626,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 65.77,
         "local_currency": "NGN"
@@ -5636,7 +5645,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 18.98,
       "local_currency": "GHS"
@@ -5646,7 +5655,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 18.46,
       "local_currency": "GHS"
@@ -5656,7 +5665,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5667,7 +5676,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.317,
         "local_currency": "GHS"
@@ -5677,7 +5686,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.159,
         "local_currency": "GHS"
@@ -5700,7 +5709,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 102.343,
         "local_currency": "XOF"
@@ -5719,7 +5728,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 905.0,
       "local_currency": "XOF"
@@ -5729,7 +5738,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 725.0,
       "local_currency": "XOF"
@@ -5739,7 +5748,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5750,7 +5759,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 79.864,
         "local_currency": "XOF"
@@ -5760,7 +5769,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 141.75,
         "local_currency": "XOF"
@@ -5783,7 +5792,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 131.08,
         "local_currency": "XOF"
@@ -5793,7 +5802,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 94.93,
         "local_currency": "XOF"
@@ -5812,7 +5821,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 850.0,
       "local_currency": "XOF"
@@ -5822,7 +5831,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 750.0,
       "local_currency": "XOF"
@@ -5832,7 +5841,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5843,7 +5852,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 123.45,
         "local_currency": "XOF"
@@ -5853,7 +5862,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 131.0,
         "local_currency": "XOF"
@@ -5872,7 +5881,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 725.0,
       "local_currency": "XOF"
@@ -5882,7 +5891,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 750.0,
       "local_currency": "XOF"
@@ -5892,7 +5901,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5915,7 +5924,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 122.96,
         "local_currency": "XOF"
@@ -5925,7 +5934,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 108.23,
         "local_currency": "XOF"
@@ -5944,7 +5953,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 40000.0,
       "local_currency": "SLL"
@@ -5954,7 +5963,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 45000.0,
       "local_currency": "SLL"
@@ -5964,7 +5973,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -5975,7 +5984,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 4986.0,
         "local_currency": "SLL"
@@ -5985,7 +5994,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 6735.0,
         "local_currency": "SLL"
@@ -6004,7 +6013,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 840.0,
       "local_currency": "XAF"
@@ -6014,7 +6023,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 828.0,
       "local_currency": "XAF"
@@ -6024,7 +6033,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6035,7 +6044,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 50.0,
         "local_currency": "XAF"
@@ -6045,7 +6054,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 105.9,
         "local_currency": "XAF"
@@ -6068,7 +6077,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 166.611,
         "local_currency": "CDF"
@@ -6078,7 +6087,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 194.4,
         "local_currency": "CDF"
@@ -6101,7 +6110,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 122.96,
         "local_currency": "XAF"
@@ -6111,7 +6120,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 100.69,
         "local_currency": "XAF"
@@ -6134,7 +6143,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 15.38,
         "local_currency": "AOA"
@@ -6144,7 +6153,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 12.53,
         "local_currency": "AOA"
@@ -6167,7 +6176,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.094,
         "local_currency": "ETB"
@@ -6177,7 +6186,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.711,
         "local_currency": "ETB"
@@ -6196,7 +6205,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 212.61,
       "local_currency": "KES"
@@ -6206,7 +6215,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 216.57,
       "local_currency": "KES"
@@ -6216,7 +6225,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6227,7 +6236,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 26.24,
         "local_currency": "KES"
@@ -6237,7 +6246,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 21.84,
         "local_currency": "KES"
@@ -6260,7 +6269,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 611.43,
         "local_currency": "UGX"
@@ -6270,7 +6279,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 383.95,
         "local_currency": "UGX"
@@ -6289,7 +6298,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3796.0,
       "local_currency": "TZS"
@@ -6299,7 +6308,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3877.0,
       "local_currency": "TZS"
@@ -6309,7 +6318,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6320,7 +6329,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 229.59,
         "local_currency": "TZS"
@@ -6330,7 +6339,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 236.37,
         "local_currency": "TZS"
@@ -6349,7 +6358,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2938.0,
       "local_currency": "RWF"
@@ -6359,7 +6368,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2927.0,
       "local_currency": "RWF"
@@ -6369,7 +6378,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6380,7 +6389,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 361.09,
         "local_currency": "RWF"
@@ -6390,7 +6399,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 131.0,
         "local_currency": "RWF"
@@ -6409,7 +6418,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 5300.0,
       "local_currency": "MGA"
@@ -6419,7 +6428,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 4860.0,
       "local_currency": "MGA"
@@ -6429,7 +6438,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6440,7 +6449,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 581.89,
         "local_currency": "MGA"
@@ -6450,7 +6459,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1153.12,
         "local_currency": "MGA"
@@ -6469,7 +6478,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 70.65,
       "local_currency": "MUR"
@@ -6479,7 +6488,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 71.25,
       "local_currency": "MUR"
@@ -6489,7 +6498,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6500,7 +6509,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 6.14,
         "local_currency": "MUR"
@@ -6510,7 +6519,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 6.43,
         "local_currency": "MUR"
@@ -6529,7 +6538,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 29.82,
       "local_currency": "ZAR"
@@ -6539,7 +6548,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 34.72,
       "local_currency": "ZAR"
@@ -6549,7 +6558,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6560,7 +6569,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 4.524,
         "local_currency": "ZAR"
@@ -6570,7 +6579,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.289,
         "local_currency": "ZAR"
@@ -6589,7 +6598,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 26.58,
       "local_currency": "NAD"
@@ -6599,7 +6608,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 27.86,
       "local_currency": "NAD"
@@ -6609,7 +6618,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6620,7 +6629,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.734,
         "local_currency": "NAD"
@@ -6643,7 +6652,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.263,
         "local_currency": "BWP"
@@ -6653,7 +6662,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.208,
         "local_currency": "BWP"
@@ -6672,7 +6681,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2060.0,
       "local_currency": "ZWD"
@@ -6682,7 +6691,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2080.0,
       "local_currency": "ZWD"
@@ -6692,7 +6701,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6711,7 +6720,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 31.46,
       "local_currency": "ZMW"
@@ -6721,7 +6730,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 33.27,
       "local_currency": "ZMW"
@@ -6731,7 +6740,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6742,7 +6751,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.524,
         "local_currency": "ZMW"
@@ -6752,7 +6761,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 1.06,
         "local_currency": "ZMW"
@@ -6771,7 +6780,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 5619.0,
       "local_currency": "MWK"
@@ -6781,7 +6790,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 5863.0,
       "local_currency": "MWK"
@@ -6791,7 +6800,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6802,7 +6811,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 151.2,
         "local_currency": "MWK"
@@ -6812,7 +6821,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 292.97,
         "local_currency": "MWK"
@@ -6831,7 +6840,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 93.69,
       "local_currency": "MZN"
@@ -6841,7 +6850,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 116.25,
       "local_currency": "MZN"
@@ -6851,7 +6860,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6862,7 +6871,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 8.122,
         "local_currency": "MZN"
@@ -6872,7 +6881,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 5.117,
         "local_currency": "MZN"
@@ -6891,7 +6900,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 28.6,
       "local_currency": "LSL"
@@ -6901,7 +6910,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 34.9,
       "local_currency": "LSL"
@@ -6911,7 +6920,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -6922,7 +6931,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 2.08,
         "local_currency": "LSL"
@@ -6932,7 +6941,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.438,
         "local_currency": "LSL"
@@ -6951,7 +6960,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.29,
       "local_currency": "AUD"
@@ -6961,7 +6970,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.64,
       "local_currency": "AUD"
@@ -6971,7 +6980,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 0.67,
       "local_currency": "AUD"
@@ -6982,7 +6991,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.39,
         "local_currency": "AUD"
@@ -6992,7 +7001,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "business",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.349,
         "local_currency": "AUD"
@@ -7011,7 +7020,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3.49,
       "local_currency": "NZD"
@@ -7021,7 +7030,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3.08,
       "local_currency": "NZD"
@@ -7031,7 +7040,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": null,
       "local_currency": null
@@ -7042,7 +7051,7 @@
         "currency": "USD",
         "unit": "per kWh",
         "category": "households",
-        "update_date": "2026-10-12",
+        "update_date": "2026-10-13",
         "price_date": "01.03.2026",
         "local_price": 0.408,
         "local_currency": "NZD"
@@ -7061,7 +7070,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "gasoline",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3.15,
       "local_currency": "FJD"
@@ -7071,7 +7080,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "diesel",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 3.41,
       "local_currency": "FJD"
@@ -7081,7 +7090,7 @@
       "currency": "USD",
       "unit": "per liter",
       "fuel_type": "lpg",
-      "update_date": "2026-10-12",
+      "update_date": "2026-10-13",
       "price_date": "05-Oct-2026",
       "local_price": 2.24,
       "local_currency": "FJD"
