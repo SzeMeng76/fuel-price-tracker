@@ -1,0 +1,467 @@
+{
+  "beijing": {
+    "province": "北京",
+    "province_code": "beijing",
+    "92_gasoline": 8.61,
+    "95_gasoline": 9.17,
+    "98_gasoline": 10.67,
+    "0_diesel": 8.36,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/beijing.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "shanghai": {
+    "province": "上海",
+    "province_code": "shanghai",
+    "92_gasoline": 8.57,
+    "95_gasoline": 9.12,
+    "98_gasoline": 11.12,
+    "0_diesel": 8.28,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/shanghai.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "tianjin": {
+    "province": "天津",
+    "province_code": "tianjin",
+    "92_gasoline": 8.61,
+    "95_gasoline": 9.09,
+    "98_gasoline": 10.59,
+    "0_diesel": 8.31,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/tianjin.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "chongqing": {
+    "province": "重庆",
+    "province_code": "chongqing",
+    "92_gasoline": 8.67,
+    "95_gasoline": 9.16,
+    "98_gasoline": 11.05,
+    "0_diesel": 8.36,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/chongqing.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "hebei": {
+    "province": "河北",
+    "province_code": "hebei",
+    "92_gasoline": 8.61,
+    "95_gasoline": 9.09,
+    "98_gasoline": 9.91,
+    "0_diesel": 8.31,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/hebei.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "shanxi": {
+    "province": "山西",
+    "province_code": "shanxi",
+    "92_gasoline": 8.55,
+    "95_gasoline": 9.23,
+    "98_gasoline": 10.41,
+    "0_diesel": 8.38,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/shanxi.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "neimenggu": {
+    "province": "内蒙古",
+    "province_code": "neimenggu",
+    "92_gasoline": 8.62,
+    "95_gasoline": 9.15,
+    "98_gasoline": 10.0,
+    "0_diesel": 8.14,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/neimenggu.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "liaoning": {
+    "province": "辽宁",
+    "province_code": "liaoning",
+    "92_gasoline": 8.68,
+    "95_gasoline": 9.29,
+    "98_gasoline": 10.17,
+    "0_diesel": 8.19,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/liaoning.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "jilin": {
+    "province": "吉林",
+    "province_code": "jilin",
+    "92_gasoline": 8.57,
+    "95_gasoline": 9.25,
+    "98_gasoline": 10.08,
+    "0_diesel": 8.21,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/jilin.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "heilongjiang": {
+    "province": "黑龙江",
+    "province_code": "heilongjiang",
+    "92_gasoline": 8.58,
+    "95_gasoline": 9.19,
+    "98_gasoline": 10.41,
+    "0_diesel": 8.08,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/heilongjiang.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "jiangsu": {
+    "province": "江苏",
+    "province_code": "jiangsu",
+    "92_gasoline": 8.58,
+    "95_gasoline": 9.12,
+    "98_gasoline": 11.19,
+    "0_diesel": 8.26,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/jiangsu.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "zhejiang": {
+    "province": "浙江",
+    "province_code": "zhejiang",
+    "92_gasoline": 8.58,
+    "95_gasoline": 9.12,
+    "98_gasoline": 10.62,
+    "0_diesel": 8.28,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/zhejiang.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "anhui": {
+    "province": "安徽",
+    "province_code": "anhui",
+    "92_gasoline": 8.55,
+    "95_gasoline": 9.14,
+    "98_gasoline": 10.64,
+    "0_diesel": 8.34,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/anhui.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "fujian": {
+    "province": "福建",
+    "province_code": "fujian",
+    "92_gasoline": 8.57,
+    "95_gasoline": 9.15,
+    "98_gasoline": 10.65,
+    "0_diesel": 8.29,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/fujian.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "jiangxi": {
+    "province": "江西",
+    "province_code": "jiangxi",
+    "92_gasoline": 8.56,
+    "95_gasoline": 9.19,
+    "98_gasoline": 10.69,
+    "0_diesel": 8.35,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/jiangxi.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "shandong": {
+    "province": "山东",
+    "province_code": "shandong",
+    "92_gasoline": 8.57,
+    "95_gasoline": 9.2,
+    "98_gasoline": 10.2,
+    "0_diesel": 8.21,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/shandong.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "henan": {
+    "province": "河南",
+    "province_code": "henan",
+    "92_gasoline": 8.62,
+    "95_gasoline": 9.21,
+    "98_gasoline": 10.46,
+    "0_diesel": 8.29,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/henan.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "hubei": {
+    "province": "湖北",
+    "province_code": "hubei",
+    "92_gasoline": 8.62,
+    "95_gasoline": 9.23,
+    "98_gasoline": 10.63,
+    "0_diesel": 8.29,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/hubei.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "hunan": {
+    "province": "湖南",
+    "province_code": "hunan",
+    "92_gasoline": 8.55,
+    "95_gasoline": 9.09,
+    "98_gasoline": 10.29,
+    "0_diesel": 8.37,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/hunan.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "guangdong": {
+    "province": "广东",
+    "province_code": "guangdong",
+    "92_gasoline": 8.63,
+    "95_gasoline": 9.35,
+    "98_gasoline": 11.35,
+    "0_diesel": 8.31,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/guangdong.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "guangxi": {
+    "province": "广西",
+    "province_code": "guangxi",
+    "92_gasoline": 8.67,
+    "95_gasoline": 9.36,
+    "98_gasoline": 10.64,
+    "0_diesel": 8.36,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/guangxi.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "hainan": {
+    "province": "海南",
+    "province_code": "hainan",
+    "92_gasoline": 9.72,
+    "95_gasoline": 10.33,
+    "98_gasoline": 11.33,
+    "0_diesel": 8.39,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/hainan.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "sichuan": {
+    "province": "四川",
+    "province_code": "sichuan",
+    "92_gasoline": 8.7,
+    "95_gasoline": 9.3,
+    "98_gasoline": 10.61,
+    "0_diesel": 8.34,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/sichuan.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "guizhou": {
+    "province": "贵州",
+    "province_code": "guizhou",
+    "92_gasoline": 8.74,
+    "95_gasoline": 9.24,
+    "98_gasoline": 10.24,
+    "0_diesel": 8.4,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/guizhou.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "yunnan": {
+    "province": "云南",
+    "province_code": "yunnan",
+    "92_gasoline": 8.76,
+    "95_gasoline": 9.4,
+    "98_gasoline": 10.08,
+    "0_diesel": 8.37,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/yunnan.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "xizang": {
+    "province": "西藏",
+    "province_code": "xizang",
+    "92_gasoline": 9.48,
+    "95_gasoline": 10.03,
+    "98_gasoline": 11.02,
+    "0_diesel": 8.83,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/xizang.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "shanxi-3": {
+    "province": "陕西",
+    "province_code": "shanxi-3",
+    "92_gasoline": 8.49,
+    "95_gasoline": 8.97,
+    "98_gasoline": 10.25,
+    "0_diesel": 8.19,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/shanxi-3.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "gansu": {
+    "province": "甘肃",
+    "province_code": "gansu",
+    "92_gasoline": 8.61,
+    "95_gasoline": 9.2,
+    "98_gasoline": 9.77,
+    "0_diesel": 8.2,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/gansu.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "qinghai": {
+    "province": "青海",
+    "province_code": "qinghai",
+    "92_gasoline": 8.57,
+    "95_gasoline": 9.19,
+    "98_gasoline": 10.01,
+    "0_diesel": 8.22,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/qinghai.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "ningxia": {
+    "province": "宁夏",
+    "province_code": "ningxia",
+    "92_gasoline": 8.5,
+    "95_gasoline": 8.98,
+    "98_gasoline": 10.23,
+    "0_diesel": 8.18,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/ningxia.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  },
+  "xinjiang": {
+    "province": "新疆",
+    "province_code": "xinjiang",
+    "92_gasoline": 8.39,
+    "95_gasoline": 8.98,
+    "98_gasoline": 10.19,
+    "0_diesel": 8.04,
+    "currency": "CNY",
+    "unit": "yuan/liter",
+    "update_date": "2026-10-17",
+    "source_url": "http://m.qiyoujiage.com/xinjiang.shtml",
+    "adjustment": {
+      "next_adjustment_date": "10月15日"
+    }
+  }
+}
