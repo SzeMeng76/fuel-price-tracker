@@ -1,3 +1,3 @@
-# Fuel Price Changes - 2026-10-24
+# Fuel Price Changes - 2026-10-25
 
 No price changes detected.
