@@ -8,12 +8,12 @@
     "0_diesel": 8.65,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/beijing.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "shanghai": {
@@ -25,12 +25,12 @@
     "0_diesel": 8.57,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/shanghai.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "tianjin": {
@@ -42,12 +42,12 @@
     "0_diesel": 8.6,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/tianjin.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "chongqing": {
@@ -59,12 +59,12 @@
     "0_diesel": 8.64,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/chongqing.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "hebei": {
@@ -76,12 +76,12 @@
     "0_diesel": 8.6,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/hebei.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "shanxi": {
@@ -93,12 +93,12 @@
     "0_diesel": 8.67,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/shanxi.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "neimenggu": {
@@ -110,12 +110,12 @@
     "0_diesel": 8.42,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/neimenggu.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "liaoning": {
@@ -127,12 +127,12 @@
     "0_diesel": 8.48,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/liaoning.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "jilin": {
@@ -144,12 +144,12 @@
     "0_diesel": 8.5,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/jilin.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "heilongjiang": {
@@ -161,12 +161,12 @@
     "0_diesel": 8.36,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/heilongjiang.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "jiangsu": {
@@ -178,12 +178,12 @@
     "0_diesel": 8.55,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/jiangsu.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "zhejiang": {
@@ -195,12 +195,12 @@
     "0_diesel": 8.57,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/zhejiang.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "anhui": {
@@ -212,12 +212,12 @@
     "0_diesel": 8.63,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/anhui.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "fujian": {
@@ -229,12 +229,12 @@
     "0_diesel": 8.58,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/fujian.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "jiangxi": {
@@ -246,12 +246,12 @@
     "0_diesel": 8.64,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/jiangxi.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "shandong": {
@@ -263,12 +263,12 @@
     "0_diesel": 8.5,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/shandong.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "henan": {
@@ -280,12 +280,12 @@
     "0_diesel": 8.58,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/henan.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "hubei": {
@@ -297,12 +297,12 @@
     "0_diesel": 8.58,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/hubei.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "hunan": {
@@ -314,12 +314,12 @@
     "0_diesel": 8.66,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/hunan.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "guangdong": {
@@ -331,12 +331,12 @@
     "0_diesel": 8.6,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/guangdong.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "guangxi": {
@@ -348,12 +348,12 @@
     "0_diesel": 8.64,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/guangxi.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "hainan": {
@@ -365,12 +365,12 @@
     "0_diesel": 8.68,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/hainan.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "sichuan": {
@@ -382,12 +382,12 @@
     "0_diesel": 8.62,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/sichuan.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "guizhou": {
@@ -399,12 +399,12 @@
     "0_diesel": 8.69,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/guizhou.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "yunnan": {
@@ -416,12 +416,12 @@
     "0_diesel": 8.65,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/yunnan.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "xizang": {
@@ -433,12 +433,12 @@
     "0_diesel": 9.11,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/xizang.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "shanxi-3": {
@@ -450,12 +450,12 @@
     "0_diesel": 8.47,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/shanxi-3.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "gansu": {
@@ -467,12 +467,12 @@
     "0_diesel": 8.48,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/gansu.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "qinghai": {
@@ -484,12 +484,12 @@
     "0_diesel": 8.5,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/qinghai.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "ningxia": {
@@ -501,12 +501,12 @@
     "0_diesel": 8.46,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/ningxia.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   },
   "xinjiang": {
@@ -518,12 +518,12 @@
     "0_diesel": 8.35,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-10-30",
+    "update_date": "2026-10-31",
     "source_url": "http://m.qiyoujiage.com/xinjiang.shtml",
     "adjustment": {
-      "next_adjustment_date": "10月29日",
+      "next_adjustment_date": "11月12日",
       "expected_trend": "上调",
-      "expected_amount_ton": "410 yuan/ton"
+      "expected_amount_ton": "90 yuan/ton"
     }
   }
 }
