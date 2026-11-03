@@ -1,3 +1,4 @@
-# Fuel Price Changes - 2026-11-02
+# Fuel Price Changes - 2026-11-03
 
-No price changes detected.
+## Global Price Changes
+
