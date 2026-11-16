@@ -8,7 +8,7 @@
     "0_diesel": 8.11,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/beijing.shtml"
   },
   "shanghai": {
@@ -20,7 +20,7 @@
     "0_diesel": 8.03,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/shanghai.shtml"
   },
   "tianjin": {
@@ -32,7 +32,7 @@
     "0_diesel": 8.06,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/tianjin.shtml"
   },
   "chongqing": {
@@ -44,7 +44,7 @@
     "0_diesel": 8.11,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/chongqing.shtml"
   },
   "hebei": {
@@ -56,7 +56,7 @@
     "0_diesel": 8.06,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/hebei.shtml"
   },
   "shanxi": {
@@ -68,7 +68,7 @@
     "0_diesel": 8.13,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/shanxi.shtml"
   },
   "neimenggu": {
@@ -80,7 +80,7 @@
     "0_diesel": 7.9,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/neimenggu.shtml"
   },
   "liaoning": {
@@ -92,7 +92,7 @@
     "0_diesel": 7.95,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/liaoning.shtml"
   },
   "jilin": {
@@ -104,7 +104,7 @@
     "0_diesel": 7.97,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/jilin.shtml"
   },
   "heilongjiang": {
@@ -116,7 +116,7 @@
     "0_diesel": 7.88,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/heilongjiang.shtml"
   },
   "jiangsu": {
@@ -128,7 +128,7 @@
     "0_diesel": 8.01,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/jiangsu.shtml"
   },
   "zhejiang": {
@@ -140,7 +140,7 @@
     "0_diesel": 8.03,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/zhejiang.shtml"
   },
   "anhui": {
@@ -152,7 +152,7 @@
     "0_diesel": 8.09,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/anhui.shtml"
   },
   "fujian": {
@@ -164,7 +164,7 @@
     "0_diesel": 8.04,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/fujian.shtml"
   },
   "jiangxi": {
@@ -176,7 +176,7 @@
     "0_diesel": 8.1,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/jiangxi.shtml"
   },
   "shandong": {
@@ -188,7 +188,7 @@
     "0_diesel": 7.96,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/shandong.shtml"
   },
   "henan": {
@@ -200,7 +200,7 @@
     "0_diesel": 8.04,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/henan.shtml"
   },
   "hubei": {
@@ -212,7 +212,7 @@
     "0_diesel": 8.04,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/hubei.shtml"
   },
   "hunan": {
@@ -224,7 +224,7 @@
     "0_diesel": 8.12,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/hunan.shtml"
   },
   "guangdong": {
@@ -236,7 +236,7 @@
     "0_diesel": 8.06,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/guangdong.shtml"
   },
   "guangxi": {
@@ -248,7 +248,7 @@
     "0_diesel": 8.11,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/guangxi.shtml"
   },
   "hainan": {
@@ -260,7 +260,7 @@
     "0_diesel": 8.14,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/hainan.shtml"
   },
   "sichuan": {
@@ -272,7 +272,7 @@
     "0_diesel": 8.09,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/sichuan.shtml"
   },
   "guizhou": {
@@ -284,7 +284,7 @@
     "0_diesel": 8.16,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/guizhou.shtml"
   },
   "yunnan": {
@@ -296,7 +296,7 @@
     "0_diesel": 8.12,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/yunnan.shtml"
   },
   "xizang": {
@@ -308,7 +308,7 @@
     "0_diesel": 8.58,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/xizang.shtml"
   },
   "shanxi-3": {
@@ -320,7 +320,7 @@
     "0_diesel": 7.94,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/shanxi-3.shtml"
   },
   "gansu": {
@@ -332,7 +332,7 @@
     "0_diesel": 7.95,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/gansu.shtml"
   },
   "qinghai": {
@@ -344,7 +344,7 @@
     "0_diesel": 7.97,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/qinghai.shtml"
   },
   "ningxia": {
@@ -356,7 +356,7 @@
     "0_diesel": 7.93,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/ningxia.shtml"
   },
   "xinjiang": {
@@ -368,7 +368,7 @@
     "0_diesel": 7.82,
     "currency": "CNY",
     "unit": "yuan/liter",
-    "update_date": "2026-11-15",
+    "update_date": "2026-11-16",
     "source_url": "http://m.qiyoujiage.com/xinjiang.shtml"
   }
 }
